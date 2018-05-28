@@ -18,5 +18,5 @@ Nazioartekoan bere argitalpen zientifikoak 140 baino gehiago dira. Euskal komuni
 Aditua den gaiaz liburu hauek argitaratu ditu euskaraz: Basabizitzaren kudeaketa. UEU 1999. Inazio Garin Atorrasagastirekin batera. Eta Sexua eboluzioaren motore. Elhuyar 1995.
 <br><br>
 Hainbat hitzaldi eman ditu gai horri buruz, besteak beste, UEUko ikastaroetako sarrerako hitzaldia 2008an izenburu honekin: Ingurumenaren aldaketa globala: biziraupena auzitan. <br><br>"
-youtube: ""
+youtube:
 ---

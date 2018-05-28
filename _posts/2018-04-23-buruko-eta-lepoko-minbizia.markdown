@@ -24,5 +24,5 @@ Espezialitatea: Otorrinolaringologia. Espezialitate barruan, urte gehienak Buruk
 Egun, Galdakao-Usansolo Ospitalean, Otorrinolaringologia Zerbitzuaren Atalburua eta Buruko eta lepoko onkologia atalaren arduraduna.
 <br><br>
 Espezialitateko hainbat kongresuetako ponentzia, mahainguru eta komunikazioetan partaidea. <br><br>"
-youtube: ""
+youtube:
 ---

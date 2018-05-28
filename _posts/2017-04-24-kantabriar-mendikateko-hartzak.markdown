@@ -16,7 +16,7 @@ Kantabriar hartz arrea galtzeko zorian egon zen, baina iraunarazteko egin izan d
 <br><br>
 Hitzaldi honetan, animalia deigarri honen biologia eta ekologiari buruzko hainbat alderdi (bizitzeko eremua, elikadura, ugalketa, hibernazioa...) ezagutuko ditugu, hogeita hamar urte inguruz, era askotako ikerketa-teknikak erabiliz, espezie honi egin izan zaion jarraipenaz baliaturik. Gaur egun hartzentzat mehatxu larrienak zeintzuk diren ere (tranpak, endogamia, bizilekuaren suntsipena,...) ezagutuko ditugu eta hartz arrea iraunarazteari begira aurrez aurre ditugun erronka nagusiak.
 "
-biografia: "Fernando Garitagoitia Pradera (Mallabia, 1966) EHUn Biologia zientzietan lizentziatu zen eta gaur egun Arabako Murgia BHIko irakaslea da, “Baso eta Ingurugiroko kudeaketa” zikloan.
+biografia: "Fernando Garitagoitia Pradera (Mallabia, 1966) EHUn Biologia zientzietan lizentziatu zen eta gaur egun Arabako Murgia BHIko irakaslea da, <i>Baso eta Ingurugiroko kudeaketa</i> zikloan.
 <br><br>
 1993 urtetik hartz arrearen 2000 baino gehiago aztarna (hatzmarkak, gorotz, ileak, hartz zulo...) aurkitu eta erregistratu ditu Kantauriar Mendietan egindako ibilbideetan.
 <br><br>

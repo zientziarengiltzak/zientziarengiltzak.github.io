@@ -12,7 +12,7 @@ biografia: "Lege eta Auzitegi Medikuntzako irakasle titularra da EHUn. Aranzadi 
 <br><br>
 Beasainen jaio zen eta 1983-84 ikasturtetik EHUn dihardu irakasle. 1991n Medikuntza doktoregoa lortu zuen bertan. Horrez gain, Kriminologiako Euskal Institutuko kidea eta irakaslea ere bada, eta hainbat kargu bete izan ditu bertan.
 <br><br>
-Ikerketa proiektuak, masterrak eta doktorego tesi ugari zuzendu ditu. Horietako batzuk memoria historikoari lotuak; beste batzuk ospe handia eman diote komunikabideetan, hala nola, Salvador Allenderen hilketa/heriotza, Breton kasua edo 'Cervantes a la luz' delakoa.
+Ikerketa proiektuak, masterrak eta doktorego tesi ugari zuzendu ditu. Horietako batzuk memoria historikoari lotuak; beste batzuk ospe handia eman diote komunikabideetan, hala nola, Salvador Allenderen hilketa/heriotza, Breton kasua edo <i>Cervantes a la luz</i> delakoa.
 <br><br>
 Hainbat sari jaso ditu, tartean Gipuzkoako Foru Aldundiak (2006) eta Eusko Jaurlaritzak (2007) bere taldeari emandako Giza Eskubideen sariak. "
 ---

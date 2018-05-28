@@ -23,5 +23,5 @@ Mugaritzeko ortorduan, sorkuntza, teknología, zientzia, artea eta sukaldariak h
 Ezagutu ditzagun beraz kode horietako batzuk.<br><br>
 "
 biografia: "1975ean Oiartzunen sortua, 1995etik ostalaritzan espezialista teknikaria da. Bere formakuntza Donostiako goi sukaldaritza eskolan osatu zuen. Jatetxe ezagun ezberdinetan ikasten jarraitu zuen, 1998an Mugaritz jatetxearen irekieran parte hartu eta taldekide bezela proiektuan abiatu arte. 2004an Mugaritzeko sorkuntza atelierraren ardurak hartu zituen beregan. Bertatik, unibertsitate, ikerkuntza zentru eta empresa ezberdinekin harreman anitz sustatu ditu. Zientzia artikulu ezberdinak argitaratu ditu -hori egiten lehenengo sukaldarietako bat izanik-, sorkuntza eta berrikuntza inguruko kurtsoak ematen ditu eta sarritan kolaboratzen du irrati zein idatzizko komunikabideetan. Mugaritzen hainbat liburu ezberdinen argitaralpenean parte hartu du eta munduan zeharreko topaketa eta gastronomia kongresuetan ere egon izan da. Ikerkuntza proiektu ezberdinetan parte hartu du Euskal Herri eta estatu mailako hainbat deialdietan. Jatearen inguruko gaiak aztertzen eta dastatzen jarraitzeko asmoa du luzaro. <br><br>"
-youtube: ""
+youtube: 
 ---

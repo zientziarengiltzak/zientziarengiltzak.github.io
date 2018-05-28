@@ -19,7 +19,7 @@ Bitarten gestioen eta TB produkzioan hezituta dago.
 <br><br>
 2003 eta 2005 bitartean MSFko Larrialdi Unitatearen Zuzendaria izan zen RCD (Kivu, gatazkak), Sudan (Darfur, gerra eta lekualdatuak), Irak (gerra), Iran (Bam, lurrikara) Zambia (kolera agerraldia), Ginea Bissau (elgorri agerraldia), Etiopia (meningitis agerraldia), Sri Lanka (tsunamia), Txetxenia (gerra) eta Angola (Marburg sukar agerraldia).
 <br><br>
-2005ean, “Invisibles” dokumentalaren ekoizpena.
+2005ean, <i>Invisibles</i> dokumentalaren ekoizpena.
 <br><br>
 1993tik 2003ra epidemia, natura hondamendiak eta gatazken Larrialdien Koordinatzaile gisa lanean egon zen jarraian agertzen diren herrietan: Palestinako Lurralde Okupatuak, Kolombia, Irak, Txetxenia, Gambia, Afghanistan, Pakistan, Ertafrikar Errepublika, Kongoko Errepublika Demokratikoa, Ceuta (Espainia), Argentina, Georgia, Txina, Tanzania, Honduras, Ginea Bissau, Kosovo eta Tadjikistan."
 youtube: "https://www.youtube.com/embed/VtDUqNL1XsE"

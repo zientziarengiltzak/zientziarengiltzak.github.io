@@ -13,10 +13,10 @@ biografia: " 1985eko azarotik EHUko irakaslea da. Foliazio Geometriko Teorian et
 <br><br>
 Zientzia dibulgazioa bere lanaren ardatzetako bat izanik, zientziaren ezagutza zabaltzeko asmoz hainbat kultur etxe eta ikastetxek antolatutako jardueretara gonbidatu dute hizlari gisa. Halaber, hainbat blogetan idazten du, hala nola ZTFNews.org-en (Zientzia eta Teknologia Fakultatea, EHU) eta Zientzia Kaieran (Kultura Zientifikoaren Katedra, EHU). EHUko Kultura Zientifikoaren Katedraren Mujeres con ciencia blogaren editore ere bada.
 <br><br>
-Alacanteko Unibertsitateko igUAldad 2015 Saria jaso zuen, “gizon eta emakumeen berdintasunaren alde egindako lanagatik eta, bereziki, emakume zientzialariek Akademiari ez ezik, garapen sozialari egindakoekarpenak ere ikusgarri egiteagatik”.
+Alacanteko Unibertsitateko igUAldad 2015 Saria jaso zuen, <i>gizon eta emakumeen berdintasunaren alde egindako lanagatik eta, bereziki, emakume zientzialariek Akademiari ez ezik, garapen sozialari egindakoekarpenak ere ikusgarri egiteagatik</i>.
 <br><br>
 2015eko urrian, Espainiako Erret Elkarte Matematikoak ohorezko Domina bat eman zion sariketaren lehen edizioan. Epaimahaiak Marta Machoren engainamendua goraipatu zuen; ez bakarrik matematikaren dibulgazioan, baita ere maila desberdineko matematika irakasleen artean zubiak eraikitzean eta gizonen eta emakumeen berdintasuna aldarrikatzean.
 <br><br>
-Hauek dira 2016an Emakunde sariak bere ibilbide zientifikoari aitortu zizkion merituak: “batetik, ezagutza zientifikoa nahiz matematikoa emakumeengana zabaltzea eta hurbiltzea; bestetik, giza-progresoari zein Akademiari zientzia-emakumeek egindako ekarpenak erakustea eta aldarrikatzea”. "
+Hauek dira 2016an Emakunde sariak bere ibilbide zientifikoari aitortu zizkion merituak: <i>batetik, ezagutza zientifikoa nahiz matematikoa emakumeengana zabaltzea eta hurbiltzea; bestetik, giza-progresoari zein Akademiari zientzia-emakumeek egindako ekarpenak erakustea eta aldarrikatzea</i>. "
 youtube: "https://www.youtube.com/embed/SoTct9s80-g"
 ---
