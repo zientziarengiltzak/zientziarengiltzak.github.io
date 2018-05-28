@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zientziaren Giltzak</title>
+    <description>Ondarroako Zientziaren Giltzak Elkartearen Webgunea.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 24 May 2018 17:54:41 +0200</pubDate>
+    <lastBuildDate>Thu, 24 May 2018 17:54:41 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>Ibaien Kontserbazioa</title>
+        <description>
+</description>
+        <pubDate>Mon, 28 May 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/05/28/ibaien-kontserbazioa/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/28/ibaien-kontserbazioa/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sorkuntza Eta Zientzia Sukalderako Bidelagunak</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/05/18/sorkuntza-eta-zientzia-sukalderako-bidelagunak/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/18/sorkuntza-eta-zientzia-sukalderako-bidelagunak/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Buruko Eta Lepoko Minbizia</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/04/23/buruko-eta-lepoko-minbizia/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/23/buruko-eta-lepoko-minbizia/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gliomen Modelizazioa</title>
+        <description>
+</description>
+        <pubDate>Mon, 19 Mar 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2018/03/19/gliomen-modelizazioa/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/19/gliomen-modelizazioa/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nola Gidatzen Dira Espaziontziak</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Feb 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2018/02/16/nola-gidatzen-dira-espaziontziak/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/16/nola-gidatzen-dira-espaziontziak/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Inteligencia Artificial</title>
+        <description>
+</description>
+        <pubDate>Mon, 29 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2018/01/29/inteligencia-artificial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/29/inteligencia-artificial/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ahots Teknika</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/12/11/ahots-teknika/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/11/ahots-teknika/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Grafenoa</title>
+        <description>
+</description>
+        <pubDate>Mon, 27 Nov 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/11/27/grafenoa/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/27/grafenoa/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cern Una Ventana Al Universo Invisible</title>
+        <description>
+</description>
+        <pubDate>Tue, 31 Oct 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/10/31/cern-una-ventana-al-universo-invisible/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/31/cern-una-ventana-al-universo-invisible/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Prevenir Y Tratar La Enfermedad De Alzheimer</title>
+        <description>
+</description>
+        <pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/10/02/prevenir-y-tratar-la-enfermedad-de-alzheimer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/02/prevenir-y-tratar-la-enfermedad-de-alzheimer/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
