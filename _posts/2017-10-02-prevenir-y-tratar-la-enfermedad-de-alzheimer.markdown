@@ -1,0 +1,19 @@
+---
+titulua: "Prevenir y Tratar la Enfermedad de Alzheimer: Una Visión Moderna"
+subtitulua:
+hizlaria: "Pablo Martínez-Lage"
+layout: default
+categories: normal
+modal-id: 13
+date: 2017-10-02
+barruko_argazkia: pmartinezlage.jpg
+serrendako_argazkia: 201710.jpg
+alt: Prevenir y Tratar la Enfermedad de Alzheimer
+deskribapena: "La demencia en general y la enfermedad de Alzheimer en particular es la mayor amenaza para la salud de las personas, la cohesión de las familias y la sostenibilidad de los estados de bienestar. En Euskadi el número de enfermos, ronda ahora los 40.000 y se acercará a los 80.000 en 2040. Es fácil sopesar la envergadura de esta amenaza si se tiene en cuenta que la duración media de la enfermedad es de 8 a 10 años y el coste medio anual por paciente es de 24.200€.
+<br><br>
+Es cierto que no hay, hoy por hoy, un tratamiento que cure la enfermedad y que en los últimos años hemos asistido al fracaso de muchos ensayos clínicos con nuevas terapias. Pero no es menos cierto que no podemos permitirnos el lujo de esperar a que algún tratamiento 'curativo' se descubra y esté disponible antes de tomar medidas que ya pueden ponerse en marcha y que pueden conseguir mejorar significativamente la atención a las personas con demencia, optimizar su calidad de vida y la de sus familiares cuidadores e incluso disminuir el número de futuros enfermos. Un objetivo a conseguir es corregir el retraso que se produce en el diagnóstico, que puede ser hasta de 3 años. El diagnóstico temprano y la prescripción temprana de los tratamientos disponibles farmacológicos y no farmacológicos pueden retrasar algunos hechos de la enfermedad (prevención terciaria). Se puede incluso lograr el diagnóstico en fases muy leves y tomar medidas que podrían retrasar la aparición de la pérdida de autonomía y la dependencia (prevención secundaria). Además, la investigación avanza en el conocimiento de las fases pre-clínicas de la enfermedad, antes de los primeros síntomas, y el ensayo de fármacos en estas fases. Por último, el conocimiento de los factores de riesgo y los factores protectores permite ya poner en marcha estudios y estrategias dirigidos a demostrar que el control de estos factores puede ser eficaz en la prevención primaria de la demencia."
+biografia: "Pablo Martinez-Lage Iruñan jaio zen. Medikuntza lizentziatura Nafarroako Unibertsitatean lortu zuen 1988an eta neurologia espezialitatea bukatu zuen bertan 1992an. Doktore titulua 1994an lortu ondoren beka batekin joan zen Canadako Western Ontario Universityko Zientzia Neurologiko Departamentura Dementzia eta Gaixotasun Zerebrobaskular programa batean parte hartzeko Vladimir Hachinski irakaslearen zuzendaritzapean. Egonaldi honetan ere Andrew Kertesz irakaslearekin egin zuen lan bere Portaera Neurologiko Departamentuan eta David Muñoz irakaslearekin Neuropatologian.
+<br><br>
+1997an ikertzaile kliniko gisa lana egin zuen Iruñeako Virgen del Camino Ospitaleko Neurologia adarrean. 1999tik 2001era Iruñeako Landazabal Zentro Geriatrikoko Eguneko Gunea eta Psikogeriatriko adarra zuzendu zituen. 2001ean, Nafarroako Unibertsitateko Neurologia eta Neurozirugia Ataleko Oroimen Anabasen Unitatera batu zen. 2007ko irailean izendatu zuten Bartzelonako ACE (Alzheimer Centre Educational, Institut Catalá de Neurociences Aplicades) Fundazioko ikerketa zuzendaria, non lanean egon da 2010eko martxoa arte. 2010eko martxotik aurrera Donostiako CITA-Alzheimer Fundazioko Ikerketa eta Terapia Aitzindarien Zentroko Neurologia esparruaren zuzendaria da. Bertan Gipuzkoa Alzheimer Proiektuko (GAP) ikertzaile nagusia da."
+youtube: "https://www.youtube.com/embed/rcCP94P4dsM"
+---

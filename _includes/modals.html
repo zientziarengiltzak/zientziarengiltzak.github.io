@@ -1,0 +1,71 @@
+ <!-- Portfolio Modals -->
+ {% for post in site.posts offset:3 %}
+    <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <img src="img/hitzaldiak/{{post.barruko_argazkia}}" class="img-responsive" alt="">
+                                </div>
+                                <div class="col-md-8">
+                                    <h3> {{ post.titulua }}</h3>
+                                    {% if post.subtitulua != null %}
+                                        <h4>{{ post. subtitulua }}</h4>
+                                    {% endif %}
+                                    <h2  class="porfolio-izena">{{ post.hizlaria }}</h2>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <p class="text-justify text-muted">{{ post.deskribapena }}</p>
+                            </div>
+                            <div class="row">
+                                <h3> Biografia</h3>
+                                <p class="text-justify text-muted">{{ post.biografia }}</p>
+                            </div>
+                            {% if post.youtube != null %}
+                                <iframe width="640" height="360" src="{{ post.youtube }}" frameborder="0" allowfullscreen></iframe>
+                            {% endif %}
+                            <div class="row">
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Itxi</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
+{% endfor %}
+
+{% for post in site.categories.aurrekoak %}
+    <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h1> Aurreko Hitzaldiak</h1>
+                            <ul>
+                                <li>{{ post.titulua }}</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
+{% endfor %}
