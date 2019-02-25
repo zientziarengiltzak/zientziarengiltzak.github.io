@@ -405,7 +405,8 @@
           <img src="img/hitzaldiak/201609_2.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-   <p class="text-muted">Francisco Etxeberria Gabilondo</p>
+          <h4>Ciencia y T&eacute;cnica en la Investigaci&oacute;n Criminal: La B&uacute;squeda de la Verdad</h4>
+          <p class="text-muted">Francisco Etxeberria Gabilondo</p>
         </div>
       </div>
   </div>
@@ -421,7 +422,7 @@
           <img src="img/hitzaldiak/201609_1.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>La Cueva de Atxurra. Una Nueva Mirada al Arte Parietal Paleolítico de Euskal Herria</h4>
+          <h4>La Cueva de Atxurra. Una Nueva Mirada al Arte Parietal Paleol&iacute;tico de Euskal Herria</h4>
           <p class="text-muted">Diego Garate Maidagan</p>
         </div>
       </div>

@@ -126,7 +126,7 @@ Ikerketetako emaitzak ospe internazionaleko hainbat aldizkaritan argitaratu eta 
                    </div>
                  </div>
                   </br>
-                  <!--<iframe width="640" height="360" src="https://www.youtube.com/embed/72y7y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+                  <iframe width="640" height="360" src="https://www.youtube.com/embed/tqNVWtymQdM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 			      </br>   
                  <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Itxi</button>
                </div>

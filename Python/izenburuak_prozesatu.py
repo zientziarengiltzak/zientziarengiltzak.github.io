@@ -22,7 +22,7 @@ def toHTML(s):
 
 
 
-file = open('galeria.out','w') 
+file = open('galeria.io','w') 
  
 with open('izenburuak.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',',);
