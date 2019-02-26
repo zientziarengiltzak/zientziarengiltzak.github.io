@@ -14,7 +14,7 @@ def toHTML(s):
         ("ó", "&oacute;"),
         ("ú", "&uacute;"),
         ("ñ", "&ntilde;"),
-        ("?", "&iquest;"),
+        ("¿", "&iquest;"),
     )
     for a, b in replacements:
         s = s.replace(a, b);
@@ -22,10 +22,10 @@ def toHTML(s):
 
 
 
-file = open('galeria.io','w') 
+file = open('01_galeria.io','w+') 
  
 with open('izenburuak.csv') as csv_file:
-    csv_reader = csv.reader(csv_file, delimiter=',',);
+    csv_reader = csv.reader(csv_file, delimiter=';',);
     line_count = 0;
     for row in csv_reader:
         if line_count == 0:

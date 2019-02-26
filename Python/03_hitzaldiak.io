@@ -3,6 +3,53 @@
     <!-- HITZALDIAK -->
     <!-- **************-->
 
+<!-- 2019/03 -->
+    <div class="portfolio-modal modal fade" id="H201903" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl">
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 col-lg-offset-2">
+                <div class="modal-body">
+                  <div class="row">
+                    <div class="col-md-4">
+                      <img src="img/hitzaldiak/jlarruskain.jpg" class="img-responsive" alt="">
+                    </div>
+                    <div class="col-md-8">
+                      <h3>Futbolaren Zientziaren Golak</h3>
+                      <h2  class="porfolio-izena">Jon Larruskain Zabala</h2>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <p class="text-justify text-muted">
+                    Goi mailako futbol taldeetan bi helburu nagusi nabarmentzen dira: harrobiko jokalari gazteak garatzea eta lehen taldeen errendimendu maximoa lortzea, alegia, irabaztea.
+                    Jakina da irabazteko jokalarien talentua eta entrenatzaileen kudeaketa gaitasuna funtsezkoak direla. Baina, protagonista hauen inguruan, arlo ezberdinetatik jasotako laguntza gero ta garrantzitsuagoa da: prestakuntza fisikoa, medikuntza, fisioterapia, nutrizioa, datuen analisia, ... Ondorioz, zientzia futbol zelaitik gero eta gertuago dago. Orduan, zientziak golak sartzen lagundu dezake? Futbola futbola dela esan ohi da, baina futbola zientzia ere al da? Galdera hauek erantzuten saiatzeko hitzaldi honetan goi-mailako futbol talde baten kontextuan jokalariak garatzeko eta errendimendua hobetzeko egiten diren eskuhartzeak eta zientziak emandako aurrerapausoak aztertuko ditugu.
+                   </p>	
+                   </div>
+                   <div class="row">
+					 <h3> Biografia</h3>
+                     <p class="text-justify text-muted">
+						Jon gaztetatik hasi zen futbolean jokatzen, eta 11 urte igaro zituen Athletic Club-eko harrobiko taldeetan atezain moduan. Bere ikasketak ere kirol arlora bideratu zituen, eta jarduera fisikoaren eta kirolaren zientzietan lizentziatu zen Euskal Herriko Unibertsitatean. Erresuma Batuko Loughborough University-n ariketa fisikoaren fisiologian masterra egin ondoren, Euskal Herriko Unibertsitatean futboleko lesioen inguruko doktorego tesia bukatzear da. Bere ikerketetan futboleko lesioen ezaugarriak, arrisku faktoreak eta ondorio ezkorrak jorratu ditu. 2018tik Athletic Club-en Zerbitzu Medikuetan kirol zientzialari moduan dihardu. Bertan, datuen bilketa, analisi, bistaratze eta komunikazio prozesuak garatzeaz arduratzen da, jokalarien disponibilidadea eta errendimendua hobetzeko asmoarekin.
+                     </p>
+                   </div>
+                 </div>
+                  </br>
+                  <!--<iframe width="640" height="360" src="https://www.youtube.com/embed/72y7y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+			      </br>   
+                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Itxi</button>
+               </div>
+             </div>
+           </div>
+         </div>
+        </div>
+      </div>
+
 
 <!-- 2019/02 -->
     <div class="portfolio-modal modal fade" id="H201902" tabindex="-1" role="dialog" aria-hidden="true">
