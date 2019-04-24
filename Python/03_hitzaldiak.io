@@ -3,6 +3,63 @@
     <!-- HITZALDIAK -->
     <!-- **************-->
 
+<!-- 2019/04 -->
+    <div class="portfolio-modal modal fade" id="H201904" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl">
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 col-lg-offset-2">
+                <div class="modal-body">
+                  <div class="row">
+                    <div class="col-md-4">
+                      <img src="img/hitzaldiak/jarizaga.jpg" class="img-responsive" alt="">
+                    </div>
+                    <div class="col-md-8">
+                      <h3>Las Gaviotas de Ond&aacute;rroa,</h3>
+                      <h3>¡Mucho m&aacute;s que P&aacute;jaros!</h3>
+                      <h2  class="porfolio-izena">Juan Arizaga Mart&iacute;nez</h2>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <p class="text-justify text-muted">
+                    En el mundo existen más de 50 especies de gaviotas, presentes en todos loscontinentes, incluida la Ant&aacute;rtida. Algunas de ellas son muy escasas, otras muy abundantes. Muchas especies de gaviotas son oportunistas, lo que les ha permitido explotarcon &eacute;xito recursos de origen humano, como la basura de los vertederos o los descartes pesqueros. Esto ha generado una relaci&0acute;n particular con el ser humano. En la costa vasca, Ond&aacute;rroa constituye un punto de especial inter&eacute;s para la observaci&oacute;n de gaviotas a nivel regional. Entre esas gaviotas, algunas de ellas suelen llevar anillas de color, que identifican individualmente a los ejemplares marcados. A partir de esas aves anilladas de Ond&aacute;rroa, a lo largo de la charla haremos un viaje que nos llevar&aacute; a conocer los &uactue;ltimos resultados de los proyectos que la Sociedad de Ciencias Aranzadi está llevando a cabo con estas aves. Hablaremos de cu&aacute;ntas hay, d&oactue;nde crían, qu&eacute; comen, c&oacute;mo se mueven o cu&aacute;nto viven, as&iactue; como de la importancia de la ciencia ciudadana en el desarrollo del proyecto.
+                   </p>	
+                   </div>
+                   <div class="row">
+		   <h3> Biografia</h3>
+                   <p class="text-justify text-muted">
+Nafarroako Unibertsitatean Biologia ikasi ondoren bertan lortu zuen doktoregoa 2008an. Ondoren 2 urteko postdok egonaldia egin zuen Alemaniako Vogel-warte Instituten eta berehala, 2011n, Aranzadi Zientzia Elkarteko Ornitologia sailean hasi zen lanean. Gaur egun bertako zuzendaria da. 
+		   </p>
+                   <p class="text-justify text-muted">
+Bere eginkizunetan bi arlo bereizten dira: kudeaketa eta ikerketa. Kudeaketan Aranzadiko eraztunketa bulegoa zuzentzen du, estatu espainolean ofizial diren eraztunketa bulego bietako bat. Bere lan taldearen laguntzarekin, Aranzadiko eraz- tunketa bulegoa erreferente izatea lortu du bai Europa mailan bai Euskal Herrian.
+		   </p> 
+                   <p class="text-justify text-muted">
+Ikerketa arloan, 3 lerro nagusi bereizten dira bere eginkizunetan: 1) hegaztien migrazioa (portaera geldialdietan, konexio migratzailea, migrazio estrategiak, espezie migratzaileen eta euren habitaten kontserbazioa), 2) ekologia etainteresgarriak diren espezie populazioen dinamika: kalatxori hori-hankaduna, zozo akuatikoa eta mokoker arrunta, eta 3) estatu espainoleko iparraldean habia egiten duten hegazti
+populazioen joerak eta euren kontserbazio egoera.
+		   </p>
+                   <p class="text-justify text-muted">
+Ikertzaile nagusia izan da 10 deialdi baino gehiagotan bai eskualde mailan bai nazioartean. 150 argitalpen baino gehiagoren egile izan da; 4 doktorego tesi zuzendu ditu eta, gaur egun, beste 8 zuzentzen ari da. EHUko irakasle elkartua da Biodibertsitate, Funtzionamendu eta Ekosistemen kudeaketa masterrean.
+                     </p>
+                   </div>
+                 </div>
+                  </br>
+                  <!--<iframe width="640" height="360" src="https://www.youtube.com/embed/72y7y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+			      </br>   
+                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Itxi</button>
+               </div>
+             </div>
+           </div>
+         </div>
+        </div>
+      </div>
+
 <!-- 2019/03 -->
     <div class="portfolio-modal modal fade" id="H201903" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">

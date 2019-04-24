@@ -1,5 +1,19 @@
   <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
+        <a href="#H201904" class="portfolio-link" data-toggle="modal">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fa fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/hitzaldiak/201904.jpg" class="img-responsive" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>Las Gaviotas de Ond&aacute;rroa, ¡Mucho m&aacute;s que Simples P&aacute;jaros!</h4>
+          <p class="text-muted">Juan Arizaga Mart&iacute;nez</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201903" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -23,7 +37,7 @@
           <img src="img/hitzaldiak/201902.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>Estresatuta Sentitzen Garenean, Zergatik Gaixotzen Gara Errazago?</h4>
+          <h4>Estresatuta Sentitzen Garenean  Zergatik Gaixotzen Gara Errazago?</h4>
           <p class="text-muted"> Eneritz G&oacute;mez L&aacute;zaro</p>
         </div>
       </div>
@@ -41,6 +55,9 @@
           <p class="text-muted">Guillem Chust</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201812" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -55,9 +72,6 @@
           <p class="text-muted">Nagore Basterra Berridi</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201811" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -82,7 +96,7 @@
           <img src="img/hitzaldiak/201810_2.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>Kautxoaren Aplikazioa Automobilgintzan, Garbigailuetan eta Beste Sektoreetan. Cikautxoaren Esperientzia</h4>
+          <h4>Kautxoaren Aplikazioa Automobilgintzan Garbigailuetan eta Beste Sektoreetan. Cikautxoaren Esperientzia</h4>
           <p class="text-muted">Amaia Aulestia eta Jose Santos  </p>
         </div>
       </div>
@@ -100,6 +114,9 @@
           <p class="text-muted">Mertxe De Renobales Scheifler</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201806" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -110,13 +127,10 @@
           <img src="img/hitzaldiak/201806.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>ITER Poiektua eta Fusio Nuklearra, Etorkizuneko Energia?</h4>
+          <h4>ITER Poiektua eta Fusio Nuklearra Etorkizuneko Energia?</h4>
           <p class="text-muted">Goretti Sevillano Berasategi</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201805_2" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -141,7 +155,7 @@
           <img src="img/hitzaldiak/201805.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>Sorkuntza eta Zientzia, Sukalderako Bidelagunak</h4>
+          <h4>Sorkuntza eta Zientzia Sukalderako Bidelagunak</h4>
           <p class="text-muted">Daniel Lasa Etxegoien</p>
         </div>
       </div>
@@ -159,6 +173,9 @@
           <p class="text-muted">Juan Ram&oacute;n Iriondo Bedialauneta </p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201803" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -173,9 +190,6 @@
           <p class="text-muted">Elisabete Alberdi Zelaia</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201802" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -200,7 +214,7 @@
           <img src="img/hitzaldiak/201710_2.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>CERN, una Ventana al Universo Invisible</h4>
+          <h4>CERN una Ventana al Universo Invisible</h4>
           <p class="text-muted">Pilar Hern&aacute;ndez Gamazo </p>
         </div>
       </div>
@@ -218,6 +232,9 @@
           <p class="text-muted">Jose Antonio Lozano Alonso</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201712" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -229,12 +246,9 @@
         </a>
         <div class="portfolio-caption">
           <h4>Ahots Teknika: Gure Gorputza Ezagutzen</h4>
-          <p class="text-muted">Leire G&oacute;mez Aristondo	</p>
+          <p class="text-muted">Leire G&oacute;mez Aristondo</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201711" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -277,6 +291,9 @@
           <p class="text-muted">Esteban Esteban Pe&ntilde;alba</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201705_2" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -291,9 +308,6 @@
           <p class="text-muted">Ana Mari Zubiaga Elordieta</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201705_1" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -305,7 +319,7 @@
         </a>
         <div class="portfolio-caption">
           <h4>Guerra en Siria e Irak: El Rol de la Ciancia y la Tecnolog&iacute;a en las Guerras</h4>
-          <p class="text-muted">Aitor Zabalgogeazkoa Llodio	</p>
+          <p class="text-muted">Aitor Zabalgogeazkoa Llodio</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 portfolio-item">
@@ -336,6 +350,9 @@
           <p class="text-muted">Marta Macho Stadler</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201702" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -350,9 +367,6 @@
           <p class="text-muted">Jon Lasa</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201701" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -363,7 +377,7 @@
           <img src="img/hitzaldiak/201701.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>La Dosis Importa. Quimifobia, numeros E- y homeopat&iacute;a</h4>
+          <h4>La Dosis Importa. Quimifobian&uacute;meros E- y homeopat&iacute;a</h4>
           <p class="text-muted">Juan J. Iruin Sanz</p>
         </div>
       </div>
@@ -395,6 +409,9 @@
           <p class="text-muted">Onintze Salazar</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201610" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -409,9 +426,6 @@
           <p class="text-muted">Joana Atxa Morcillo</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H2016092" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -422,8 +436,8 @@
           <img src="img/hitzaldiak/201609_2.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>Ciencia y T&eacute;cnica en la Investigaci&oacute;n Criminal: La B&uacute</h4>
-          <p class="text-muted">squeda de la Verdad</p>
+          <h4>Ciencia y T&eacute;cnica en la Investigaci&oacute;n Criminal: La B&uacute;squeda de la Verdad</h4>
+          <p class="text-muted">Francisco Etxeberria Gabilondo</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 portfolio-item">
@@ -454,3 +468,5 @@
           <p class="text-muted"></p>
         </div>
       </div>
+  </div>
+
