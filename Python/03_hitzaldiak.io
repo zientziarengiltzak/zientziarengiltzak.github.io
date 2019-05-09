@@ -3,6 +3,70 @@
     <!-- HITZALDIAK -->
     <!-- **************-->
 
+
+<!-- 2019/05 -->
+    <div class="portfolio-modal modal fade" id="H201905" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl">
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 col-lg-offset-2">
+                <div class="modal-body">
+                  <div class="row">
+                    <div class="col-md-4">
+                      <img src="img/hitzaldiak/fjauregi.jpg" class="img-responsive" alt="">
+                    </div>
+                    <div class="col-md-8">
+                      <h3>Astronom&iacute;a,</h3>
+                      <h3>Estrellas y Estrellados</h3>
+                      <h2  class="porfolio-izena">Fernando Jauregi Sora</h2>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <p class="text-justify text-muted">
+La Astronom&iacute;a es una de las disciplinas m&aacute;s antiguas y est&aacute; presente en nuestra vida diaria más de lo que muchos imaginamos. La organizaci&oacute;n del tiempo en d&iacute;as, semanas de siete d&iacute;as, meses de diferente duraci&oacute;n, a&ntilde;os... est&aacute; muy relacionado con la observaci&oacute;n de los astros. El m&aacute;s importante de todos, por supuesto, es el Sol. Pero la Astronom&iacute;a es una ciencia que se asocia principalmente con la noche, con las estrellas. El cielo estrellado, tal y como se ve desde los Pirineos, desde la meseta o desde alta mar, lejos siempre de las ciudades, es un paisaje natural que no deja indiferente a nadie. Ese cielo estrellado ha sido una fuente de inspiraci&oacute;n inagotable para los humanos desde siempre y creemos que es un patrimonio que merece la pena proteger para las generaciones futuras.
+                   </p>	
+                    <p class="text-justify text-muted">
+En esta charla hablaremos de Astronom&iactue;a, de estrellas y planetas, y comprobaremos cu&aacute;nto conocemos del antiguo saber de las estrellas.
+		    </p>
+                   </div>
+                   <div class="row">
+		   <h3> Biografia</h3>
+                   <p class="text-justify text-muted">
+Iruñean jaio zen Errege egunean eta OHO Iru&ntilde;ako Jose Maria de Huarte Ikastetxe Publikoan ikasi zuen. Batxilergoa Navarro Villoslada Institutuan ikasi zuen eta Fisikaren Zientzien Lizentziaturaren lehenengo zikloa Zaragozako Unibertsitatean. Espezialitatea (2. Zikloa) Madrileko Unibertsitate Konplutensean (Astrofisika) bukatu zuen.
+		   </p>
+                   <p class="text-justify text-muted">
+Lanpostuak: UPNan Matematika eta Informatika Saileko irakasle elkartua izan zen (1989-1992) eta 1992tik aurrera Iru&ntilde;ako Planetarioan Ekoizpena eta Pedagogia arduraduna da.
+		   </p> 
+                   <p class="text-justify text-muted">
+Hainbat elkartetako bazkidea da: Nafarroako Astronomia Elkartea, Asociaci&oacute;n para la Ense&ntilde;anza de la Astronomia (ApEA), Cel Fosc, Asociaci&oacute;n Red Astronavarra Sarea, Club de Amigos de la
+Ciencia de Navarra, Federaci&oacute;n de Asociaciones Astron&oactue;micas de Espa&ntilde;a.
+		   </p>
+                   <p class="text-justify text-muted">
+Nabarmentzeko proiektuak: Escuela de Estrellas/ Izar Eskola/ School of Stars, Planetarioan eman diren 50 dokumental baino gehiago zuzendu eta ekoiztu ditu. Hainbat kongresutan parte hartu du eta beste hainbat antolatu ditu, Pirineoak La Nuit europear proiektuaren arduraduna da (2017-2020) eta iaz, 2018an, Iru&ntilde;ako Planetario erakundeak 25. urteurrena ospatzen zuela eta, planetario digitala martxan
+jarri zuen.
+                     </p>
+                   </div>
+                 </div>
+                  </br>
+                  <!--<iframe width="640" height="360" src="https://www.youtube.com/embed/72y7y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+			      </br>   
+                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Itxi</button>
+               </div>
+             </div>
+           </div>
+         </div>
+        </div>
+      </div>
+
+
+
 <!-- 2019/04 -->
     <div class="portfolio-modal modal fade" id="H201904" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
