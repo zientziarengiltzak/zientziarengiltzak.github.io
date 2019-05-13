@@ -66,6 +66,7 @@
                       <li><a href="files/Zientzia_astea_2_programa.pdf">2. Zientzia Astea</a></li>
 					  <li><a href="files/Ondarruko_zientzia_astea_3.pdf">3. Zientzia Astea</a></li>
 						<li><a href="files/Aumes_power.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aume's Power</a></li>
+						<li><a href="files/zientziafot.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZientziaFot</a></li>
 						<li><a href="files/POS2019.pdf">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pint of Science 2019</a></li>
                       <li class="divider"></li>
                       <li><a href="files/2017_Memoria.pdf">2017ko Memoria</a></li> 
