@@ -60,14 +60,9 @@
                     <span class="caret"></span></a>
                     <ul class="dropdown-menu horia">
                       <li><a class="page-scroll" href="#hitzaldiak">Hitzaldiak</a></li>
-                      <li class="divider"></li>
                       <li><a href="files/Zientzia_astea_programa.pdf">1. Zientzia Astea</a></li>
                       <li><a href="https://youtu.be/jVIw2FsxOaQ">Jakinduriek Mundua Erreko Dau</a></li>
                       <li><a href="files/Zientzia_astea_2_programa.pdf">2. Zientzia Astea</a></li>
-					  <li><a href="files/Ondarruko_zientzia_astea_3.pdf">3. Zientzia Astea</a></li>
-						<li><a href="files/Aumes_power.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aume's Power</a></li>
-						<li><a href="files/zientziafot.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZientziaFot</a></li>
-						<li><a href="files/POS2019.pdf">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pint of Science 2019</a></li>
                       <li class="divider"></li>
                       <li><a href="files/2017_Memoria.pdf">2017ko Memoria</a></li> 
                       <li><a href="files/2017_Memoria_ES.pdf">Memoria 2017</a></li>
@@ -92,11 +87,12 @@
             <!-- /.container-fluid -->
           </nav>
 
+          <!-- GOIBURU ZAHARRA
           <header>
             <div class="container">
               <div class="intro-text">
-                <div class="intro-lead-in">BADATOR 3. ZIENTZIA ASTEA ONDARRURE</div>
-                <div class="intro-lead-in">Maiatzaren 17tik 23ra - <a href="files/Ondarruko_zientzia_astea_3.pdf">Ikusi Programa</a></div>
+                <div class="intro-lead-in">BADATOR 2. ZIENTZIA ASTEA ONDARRURE</div>
+                <div class="intro-lead-in">Maiatzaren 11tik 20ra - <a href="files/Zientzia_astea_2_programa.pdf">Ikusi Programa</a></div>
                 </br>
                 <hr>
                 </br>
@@ -111,9 +107,9 @@
               </div>
             </div>
           </header>
+          -->
           
           <!-- Header -->
-          <!-- GOIBURU ZAHARRA
           <header>
             <div class="container">
               <div class="intro-text">
@@ -128,7 +124,6 @@
               </div>
             </div>
           </header>
-          -->
 
 
           <section  class="bg-light-gray">
