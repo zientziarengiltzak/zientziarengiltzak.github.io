@@ -1,0 +1,15 @@
+1.- Python/hitzaldiak karpetan:
+
+  1.1.- Gehitu lerro berri bat 00_izenburuak.csv fitxategian. TESTU EDITORE BAT ERABILI, EZ CAL EDO HORRELAKORIK
+  1.2.- Gehitu .bio eta .lab fitxategiak. Izenak lehenengo fitxategiaren lehenengo eremukoak izan behar dira, # kenduta
+
+
+2.- img/hitzaldiak karpetan:
+
+  2.1.- Hizlariaren argazkia gehitu (kopiatu existitzen den baten bat, bestela: 300x400)
+  2.2.- Kartelaren irudia gehitu (kopiatu existitzen den baten bat, bestela: 530x750)
+
+
+3.- Exekutatu Python/generate_web.sh
+
+4.- Eguneratu github

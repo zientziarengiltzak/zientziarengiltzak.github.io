@@ -1,7 +1,11 @@
-   </div>
+
     </section>
+		<div class="text-center">
+			<a data-toggle="modal"  href="./hitzaldiak.html"><button  type="button" class="btn btn-lg btn-primary">Hitzaldi Gehiago</button></a>
+		</div>
 
-
+	</br>
+	</br>
     <!-- Taldea -->
     <section id="taldea" class="bg-light-gray">
       <div class="container">
@@ -254,7 +258,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="copyright">Zientziaren Giltzak Elkartea &copy; 2017</span>
+            <span class="copyright">Zientziaren Giltzak Elkartea &copy; 2019</span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons-sm">
@@ -274,4 +278,9 @@
       </div>
     </footer>
 
+
+
+    <!-- **************-->
+    <!-- HITZALDIAK -->
+    <!-- **************-->
 
