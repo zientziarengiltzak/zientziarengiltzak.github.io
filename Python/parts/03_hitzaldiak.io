@@ -225,7 +225,7 @@
 
                                <p class="text-justify text-muted">
 
-                               En esta charla hablaremos de Astronom&iactue;a, de estrellas y planetas, y comprobaremos cu&aacute;nto conocemos del antiguo saber de las estrellas.
+                               En esta charla hablaremos de Astronom&iacute;a, de estrellas y planetas, y comprobaremos cu&aacute;nto conocemos del antiguo saber de las estrellas.
 
                                </p>
 
@@ -304,7 +304,7 @@
                            <div class="row">
                                <p class="text-justify text-muted">
 
-                               En el mundo existen m&aacute;s de 50 especies de gaviotas, presentes en todos loscontinentes, incluida la Ant&aacute;rtida. Algunas de ellas son muy escasas, otras muy abundantes. Muchas especies de gaviotas son oportunistas, lo que les ha permitido explotarcon &eacute;xito recursos de origen humano, como la basura de los vertederos o los descartes pesqueros. Esto ha generado una relaci&0acute;n particular con el ser humano. En la costa vasca, Ond&aacute;rroa constituye un punto de especial inter&eacute;s para la observaci&oacute;n de gaviotas a nivel regional. Entre esas gaviotas, algunas de ellas suelen llevar anillas de color, que identifican individualmente a los ejemplares marcados. A partir de esas aves anilladas de Ond&aacute;rroa, a lo largo de la charla haremos un viaje que nos llevar&aacute; a conocer los &uactue;ltimos resultados de los proyectos que la Sociedad de Ciencias Aranzadi est&aacute; llevando a cabo con estas aves. Hablaremos de cu&aacute;ntas hay, d&oactue;nde cr&iacute;an, qu&eacute; comen, c&oacute;mo se mueven o cu&aacute;nto viven, as&iactue; como de la importancia de la ciencia ciudadana en el desarrollo del proyecto.
+                               En el mundo existen m&aacute;s de 50 especies de gaviotas, presentes en todos loscontinentes, incluida la Ant&aacute;rtida. Algunas de ellas son muy escasas, otras muy abundantes. Muchas especies de gaviotas son oportunistas, lo que les ha permitido explotarcon &eacute;xito recursos de origen humano, como la basura de los vertederos o los descartes pesqueros. Esto ha generado una relaci&oacute;n particular con el ser humano. En la costa vasca, Ond&aacute;rroa constituye un punto de especial inter&eacute;s para la observaci&oacute;n de gaviotas a nivel regional. Entre esas gaviotas, algunas de ellas suelen llevar anillas de color, que identifican individualmente a los ejemplares marcados. A partir de esas aves anilladas de Ond&aacute;rroa, a lo largo de la charla haremos un viaje que nos llevar&aacute; a conocer los &uacute;ltimos resultados de los proyectos que la Sociedad de Ciencias Aranzadi est&aacute; llevando a cabo con estas aves. Hablaremos de cu&aacute;ntas hay, d&oacute;nde cr&iacute;an, qu&eacute; comen, c&oacute;mo se mueven o cu&aacute;nto viven, as&iacute; como de la importancia de la ciencia ciudadana en el desarrollo del proyecto.
 
                                </p>
 
