@@ -1,3 +1,102 @@
+<!-- H201911 -->
+
+<div class="portfolio-modal modal fade" id="H201911" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/amurueta.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Begiak Garunari Begira</h3>
+                                   <h2  class="porfolio-izena">Ane Murueta-Goiena Lrra&ntilde;aga</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">Parkinson gaixotasunarekin lotutako neuronen degenerazio prozesua
+
+                               sintoma motoreak sortu baino askoz ere lehenago hasten da, hau da, moteltasuna, dardara eta muskuluen go-
+
+                               gortasuna agertu aurretik. Honek esan nahi du, pertsona bateri Parkinsonaren diagnostikoa ezartzen zaionean, bere burmuinean dagoeneko neuronen galera handi bat gertatu dela eta, zoritxarrez, galdutako garuneko neuronak ezin dira berreskuratu.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Beraz, neuroendekapena hasi eta sintoma motoreak agertzen direneko tarte hori izango litzateke gaixotasuna
+
+                               ren prozesu naturala aldatzeko gai diren tratamenduak emateko momenturik egokiena. Hala ere, oraindik ez
+
+                               dugu eskuragarri Parkinson gaixotasuna aurreikusi dezakeen instrumenturik, ezta Parkinsonaren diagnostikoa duten pazienteen artean fenotipo desberdinak sailkatzeko metodorik.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Azken urteetan, Parkinsona duten gaixoen ikusmen sisteman aldaketak ikusi dira. Begia, zehazki erretina, garunaren luzapen bat da eta honek aukera bat ematen digu begiak aztertuz garuneko gaixotasunetan gertatzen diren aldaketak ulertzeko. Garun eskanerren eta erresonantziekin alderatuz, begia modu azkar, ez-inbaditzaile eta eroso baten aztertu daitezke. Gainera, erretinako irudien erresoluzio maila garuneko teknikena baino askoz handiago da eta, ondorioz, aldaketa sotilagoak detektatzeko gai izango lirateke, hau
+
+                               da, gaixotasunaren hasierako etapetan.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Beraz, begia neuroendekapeneko gaixotasunak ikertzeko bidea izan al liteke? Hitzaldi honetan galdera honi
+
+                               erantzuteko egin diren azken ikerketen berri emango dugu.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Ane Murueta-Goiena Larra&ntilde;aga ondarrutarrak optiko-optometrista karrera 2009an amaitu zuen Zaragozako Unibertsitatean eta 2018an doktoregoa Neurozientzietan lortu zuen EHUn. Duela bi urte Biocru-
+
+                               ces Bizkaia Osasun Ikerketa Institutuko neuroen-dekapeneko gaixotasunen ikerketa taldearen partaide bihurtu zen. Bere doktorego tesia animalia-ereduetan burutu zuen arren EHUn, gaur egun ikertzaile kliniko be-
+
+                               zala dihardu, Parkinsona duten gaixoen ikusmen sistema aztertuz.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Bere ikerketa lanaren ildo nagusia erretinako eta garuneko neuroirudien bitartez Parkinson gaitzarekin lotutako dementzia aurreikustea da, horrela ba, gaixotasunaren diagnostikoa eta pronostikoa hobetuz. 10
+
+                               artikulu baino gehiago argitaratu ditu nazioarteko aldizkarietan, hauetariko 4 Parkinsoneko gaixotasunarekin lotuta eta lehenmailako aldizkarietan argitaratuak.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H201910 -->
 
 <div class="portfolio-modal modal fade" id="H201910" tabindex="-1" role="dialog" aria-hidden="true">
@@ -632,108 +731,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/ozrLj-pzPlU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H201902 -->
-
-<div class="portfolio-modal modal fade" id="H201902" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/egomez.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Estresatuta Sentitzen Garenean  Zergatik Gaixotzen Gara Errazago?</h3>
-                                   <h2  class="porfolio-izena">Eneritz G&oacute;mez L&aacute;zaro</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Gaur egun estres hitza gehiegi erabiltzen da eta arrunt bilakatu da.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Baina zer da estresa? Estimulu mehatxagarrien aurrean organismoak ematen duen erantzun fisiologiko etakonduktuala da, norbanakoak mehatxagarritzat jotzen dituen egoereiaurre egiteko.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Estimulu estresagarri baten aurrean hainbat sistemafisiologiko martxan jartzen dirasustantzia ezberdinen jariapenari hasiera emanez, hormonak, neurotransimisoreak eta sistema immunitarioko hainbat osagai esaterako, eta honek jokabide aldaketak bultzatzen ditu. Honen helburua, noski, egoerari modu arrakastatsuan aurre egitea da eta behin mehatxua desagertuta estres erantzuna amaitu eta organismoa bere onarrizko aktibitatera itzultzen da.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Beraz, estresa ez da txarra. Baina… kontuan izan behar ditugu bi aspektu. Erantzun sistema hau duela miloika urte diseinatu zen garaian esistitzen ziren mehatxuei aurre egiteko. Sistema hau ez da aldatu geroztik eta gaur egun izaera ezberdineko mehatxu ezberdinei egin behar diegu aurre, izaera soziala dute eta maiztasun handiagoarekin aurkezten dira, estres sozial kronikoa deritzoguna. Hori dela eta, estres erantzuna gehiegi pizten da osasunean hainbat arazo sor ditzakeelarik, fisikoak eta mentalak.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Esan bezala, estres egoera baten aurrean sistema fisiologiko ezberdinetan aldaketak gauzatzen dira, immunitarioa kasu. Sistema immunitarioak bi erantzun mota nagusiren bitartez defendatzen du organismoa, hantura prozesuen eta antigorputzen sintesiaren bitartez. Estres egoera baten aurrean, hantura prozesua martxan jartzen da helburu prebentiboarekin eta antigorputzen sintesia gutxitu egiten da, kostu energetiko handia suposatzen baitu. Beraz, estres kronikoaren kasuan antigorputzen sintesia denbora luzez murriztua egotearen ondorioz gaixotasun birikoen aurrean babesgabe uzten gaitu. Aldi berean, hantura prozesuakroniko bihurtzen da beste sistema fisiologikoren funtzionamendua konprometituz eta depresioa bezelako nahasmenduen agerpena erreztuz. Noski, estres sozial kronikoa pairatzen duten pertsonaguztiak ez dira gaixotzen. Norberak estres egoeraren aurrean erabiltzen dituen aurre egite estrategiek garrantzia handia dutelako.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Psikologian lizentziatua eta doktorea da. “Diferencias individuales en ratones derrotados cr&oacute;nicamente: cambios conductuales, neuroendocrinos, inmunitarios y neurotr&oacute;ficos como marcadores de vulnerabilidad a los efectos del estr&eacute;s” izenburutzat duen doktorego tesiarekin batera hasi zuen bere ibilbide zientifikoa, baita doktore sari berezia lortu ere. Ondoren, bere aktibitate ikertzailearekin jarraitu zuen ikertzaile doktore kontratu batekin psikologia fakultatean psikobiologiako arloan (EHU).
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Geroztik gaurdaino, psikobiologia ikerketa talde kontsolidatuaren kidea da. Talde honek bi ikerketa lerro ditu psikoneuroinmunologia disziplinaren barnean. Batak, estres sozial kronikoak jokabidean eta hainbat sistema fisiologikotan sortzen dituen aldaketek depresioa bezalako nahasmenduen garapenean jokatzen duten papera ikertzea da, arreta berezia eskeiniz desberdintasun indibidual eta sexualei. Besteak, aurrekoan oinarriturik, estres sozialaren, kantzerraren eta depresioaren arteko harremana ikertzea du helburu. Psikobiologiako ikerketa taldeko kide izateaz gain Asturiaseko neurozientzietako institutoarekin (INEUROPA) kolaboratzen du europear ikerketa sare batean entzefalopatia hepatikoa ikertzen, zehazki entzefalopatia mota honen hasierako estadioetako markatzaileak identifikatu nahian, bai jokabidezkoak bai fisiologikoak.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Ikerketetako emaitzak ospe internazionaleko hainbat aldizkaritan argitaratu eta kongresutan aurkeztu dira. Ikerketari dagokionez ere, hainbat doktorego tesi zuzendu ditu. Ikerketez gain, EHUko irakasle atxikia da psikologiako fakultatean eta eskolak eman ditu kriminologiako eta psikologiako graduetan. Egun psikologia fisiologikoa eta neuro-psikologia eta psikofarma.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/3iG3g5QpSNI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
