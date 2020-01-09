@@ -1,3 +1,70 @@
+<!-- H202001 -->
+
+<div class="portfolio-modal modal fade" id="H202001" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/jiperez.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Animalia Kulturalak. Nola Bultzatzen Duen Kulturak Giza Bilakaera</h3>
+                                   <h2  class="porfolio-izena">Juan Ignacio P&eacute;rez Iglesias</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">Hautespen naturala eta deriba genetikoa dira espezieen bilakaeraren bi eragileak. Hautespen naturalaren arabera, gaitasun handiena ematen duten ezaugarri heredagarriak, denborak aurrera egin ahala, espezie bakoitzaren populazioetan ugarienak direnak izango dira. Ingurunearen ezaugarriek zehazten dute prozesu horren zentzua, ezaugarri batzuk onuragarriagoak direlako ingurumen-baldintza jakin batzuetan eta beste batzuk onuragarriagoak direlako beste batzuetan. Espezie batzuetan, eta, bereziki, giza espeziean, kultura-eskuratzeak ingurunearen funtsezko elementuak dira, eta eboluzioaren bilakaera erabaki dezakete, beste edozein ingurumen-faktorek bezala. Suaren erabilera kontrolatuak, abeltzaintzak, zerealen etxekotasunak, nabigazio-teknikek eta beste kultura-eskurapen batzuek eragin handia izan dute eta dute gure espeziearen ezaugarrietan edo, gutxienez, populazio jakin batzuenetan. Eta etorkizunean kultura eskuratze horiek edo beste batzuk gauzatzen jarraituko dute.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Fisiologiako katedraduna Euskal Herriko Unibertsitatean, animalien Fisiologia irakasten du Zientzia eta Teknologia Fakultatean 1986tik. Itsas animalien fisiologian ikertu du EHUn eta Europako hainbat ikerketa-
+
+                               zentrotan (Plymouth Marine Lab, NERC, Erresuma Batua; Laboratoire National "Ecosystème conchylicole", IFREMER, Frantzia; Instituto de Investigaciones Marinas, CSIC, Vigo; Instituto Espa&ntilde;ol de Oceanograf&iacute;a, A Coru&ntilde;a). Zientziari buruz eta ezagutza zientifikoak Deian eta hainbat hedabide digitaletan (Naukas, Vozp&oacute;puli, Cuaderno de Cultura Cient&iacute;fica, Zientzia Kaiera eta The Conversation) dituen inplikazio sozialei buruz idazten du.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Horrez gain, Kultura Zientifikoko Katedrako zuzendaria da. EHUko errektoreorde (1998-2000) eta errektore (2004-2008) izan da. Unibertsitate Koordinaziorako Kontseiluko kide izan da (2002-2004), Senatua eta
+
+                               EITBko Administrazio Kontseilua ordezkatuz (1999-2014). Jakiundeko (Zientzia, Arte eta Letren Akademia) (2012), Zientzia eta Teknologiarako Espainiako Fundazioaren (FECyT) Kontseilu Zientifiko eta Teknologikoko (2015) eta Donostia International Physics Centerreko (DIPC) kide da.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2019an Eusko Ikaskuntza-Euskadiko Kutxaren Humanitate, Kultura, Arte eta Gizarte Zientzien saria jaso zuen.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H201912 -->
 
 <div class="portfolio-modal modal fade" id="H201912" tabindex="-1" role="dialog" aria-hidden="true">
@@ -164,6 +231,7 @@
                            </div>
                        </div>
                        </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/5jlHL4L9xFA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
@@ -677,84 +745,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/KB3r0Eh96OA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H201904 -->
-
-<div class="portfolio-modal modal fade" id="H201904" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/jarizaga.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Las Gaviotas de Ond&aacute;rroa ¡Mucho m&aacute;s que Simples P&aacute;jaros!</h3>
-                                   <h2  class="porfolio-izena">Juan Arizaga Mart&iacute;nez</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               En el mundo existen m&aacute;s de 50 especies de gaviotas, presentes en todos loscontinentes, incluida la Ant&aacute;rtida. Algunas de ellas son muy escasas, otras muy abundantes. Muchas especies de gaviotas son oportunistas, lo que les ha permitido explotarcon &eacute;xito recursos de origen humano, como la basura de los vertederos o los descartes pesqueros. Esto ha generado una relaci&oacute;n particular con el ser humano. En la costa vasca, Ond&aacute;rroa constituye un punto de especial inter&eacute;s para la observaci&oacute;n de gaviotas a nivel regional. Entre esas gaviotas, algunas de ellas suelen llevar anillas de color, que identifican individualmente a los ejemplares marcados. A partir de esas aves anilladas de Ond&aacute;rroa, a lo largo de la charla haremos un viaje que nos llevar&aacute; a conocer los &uacute;ltimos resultados de los proyectos que la Sociedad de Ciencias Aranzadi est&aacute; llevando a cabo con estas aves. Hablaremos de cu&aacute;ntas hay, d&oacute;nde cr&iacute;an, qu&eacute; comen, c&oacute;mo se mueven o cu&aacute;nto viven, as&iacute; como de la importancia de la ciencia ciudadana en el desarrollo del proyecto.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Nafarroako Unibertsitatean Biologia ikasi ondoren bertan lortu zuen doktoregoa 2008an. Ondoren 2 urteko postdok egonaldia egin zuen Alemaniako Vogel-warte Instituten eta berehala, 2011n, Aranzadi Zientzia Elkarteko Ornitologia sailean hasi zen lanean. Gaur egun bertako zuzendaria da.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Bere eginkizunetan bi arlo bereizten dira: kudeaketa eta ikerketa. Kudeaketan Aranzadiko eraztunketa bulegoa zuzentzen du, estatu espainolean ofizial diren eraztunketa bulego bietako bat. Bere lan taldearen laguntzarekin, Aranzadiko eraz- tunketa bulegoa erreferente izatea lortu du bai Europa mailan bai Euskal Herrian.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Ikerketa arloan, 3 lerro nagusi bereizten dira bere eginkizunetan: 1) hegaztien migrazioa (portaera geldialdietan, konexio migratzailea, migrazio estrategiak, espezie migratzaileen eta euren habitaten kontserbazioa), 2) ekologia etainteresgarriak diren espezie populazioen dinamika: kalatxori hori-hankaduna, zozo akuatikoa eta mokoker arrunta, eta 3) estatu espainoleko iparraldean habia egiten duten hegazti populazioen joerak eta euren kontserbazio egoera.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Ikertzaile nagusia izan da 10 deialdi baino gehiagotan bai eskualde mailan bai nazioartean. 150 argitalpen baino gehiagoren egile izan da; 4 doktorego tesi zuzendu ditu eta, gaur egun, beste 8 zuzentzen ari da. EHUko irakasle elkartua da Biodibertsitate, Funtzionamendu eta Ekosistemen kudeaketa masterrean.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/kFIS3Vu7QPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
