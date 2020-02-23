@@ -1,3 +1,129 @@
+<!-- H201906 -->
+
+<div class="portfolio-modal modal fade" id="H201906" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/ngartzia.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Lurzorua: Oinazpiko Unibertso Ezezaguna</h3>
+                                   <h2  class="porfolio-izena">Nahia Gartzia Bengoetxa</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                                 Franklin Roosevelt-ek 1937an esan zuen: 'Bere lurzoruak suntsitzen dituen nazioak, bere burua suntsitzen du'.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 Esaldi hau oinarritzat hartuta, lurzoruak gure bizi-kalitatean duen eragina azaltzea eta berau babestu beharraren garrantzia nabarmentzea dira hitzaldiaren helburu nagusiak.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 Lurzorua lurrazalaren kanpoko geruza fina da, gizakion epidermisaren antzekoa. Geosfera, hidrosfera, biosfera eta atmosferaren interakzioaren ondorioz sortzen da, klima epeletan 100 bat urte behar ditugularik 1 edo 2 cm. lurzoru sortzeko; beraz giza eskala kontuan hartuta natur baliabide ez berriztagarritzat jotzen dugu. Lurzoruak gizakioi hornikuntza, erregulazio, kultura eta euskarri zerbitzuak eskaintzen dizkigu baina halere oso mehatxatuta dagoen natur baliabidea da.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 Nazio Batuen Elikadura eta Nekazaritza Erakundearen arabera planetako lurzoruen %33ak degradazio maila ertaina edo handia erakusten du, batez ere higadura, trinkotzea, materia organikoaren galera eta zigilatzearen ondorioz.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 Euskal Herria ez da salbuespena: euritsua, maldatsua eta lurzoru astunak ditugun gure herri eder honetan, higadura eta trinkotze arriskuak altuak dira. Horrez gain, gizarte oso industrializatu eta urbanizatua gara, eta lur erabilera ezberdinen arteko gatazka ugari sortzen dira. Eta nola ez, aldaketa klimatikoak ere eragina izango du lurzoruen funtzionamenduan; beraz, lurralde antolamendu egokia eta lurzoruen kudeaketa iraunkorra izan beharko ditugu gure etorkizuneko tresna nolabaiteko ongizatea izaten jarraitu nahi badugu.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                                 Nahia Gartzia Bengoetxea, ondarrutarra, EHUko Europako aipamendun doktorea da. Doktore tesia Hohenheim-eko Unibertsitatean burutu zuen.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 Bere lanen muina basoen lurzoruen kalitatea eta baso-kudeaketa intentsiboak dakarren eragina aztertzea izan da. Azterketari ikuspegi holistikoa eman dio parametro fisiko, kimiko eta biologikoen arteko erlazioak aztertuta. Lan horri esker baso-kudeaketaren jasangarritasunaren indikatzaileak garatzea eta erabiltzea ahalbidetu dio.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 2008an Neiker-Tecnaliaren ikerketa taldearen partaide bihurtu zen. Gaur egun, bere lan ildorik garrantzitsuena basoen lurzoruen gai organikoen dinamika eta egitura aztertzea da.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 10 artikulu baino gehiago argitaratu du nazioarteko aldizkarietan, batzuk lehenengo mailakoak, hala nola Geoderma edo Soil Biology and Biochemistry.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 Gaur egun bi doktorego tesi ari da zuzentzen aldaketa klimatikoaren aurrean baso-sistemek egokitzeko duten moduari buruzkoak.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                                 2016tik 'Sociedad Espa&ntilde;ola de Ciencias del Suelo' elkartearen Lurzoruen Fisikaren saileko idazkaria da.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/yhCTzM3c_Vw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H201905 -->
 
 <div class="portfolio-modal modal fade" id="H201905" tabindex="-1" role="dialog" aria-hidden="true">
