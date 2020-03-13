@@ -18,6 +18,9 @@ body {
 .text-primary {
   color: #39a2f8;
 }
+.text-alert {
+  color: #f73c2e;
+}
 p {
   font-size: 14px;
   line-height: 1.75;
