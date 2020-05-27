@@ -1,3 +1,74 @@
+<!-- H202005 -->
+
+<div class="portfolio-modal modal fade" id="H202005" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/rerrazkin.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Elhuyar Anaiak, Wolframa eta Espioitza</h3>
+                                   <h2  class="porfolio-izena">Rosa Errazkin Arrazau</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi hau online izango da. Ikusteko bi aukera egongo dira: Zoom aplikazioa edo Youtubeko kanala. Parte hartzeko (galderak egiteko) Zoom-era konektatu beharko da. Hauek dira sartzeko estekak:
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Youtube: <a class="page-scroll" href="https://www.youtube.com/channel/UCrcvhjRH2R2C4W2QNcKxMlg">https://www.youtube.com/channel/UCrcvhjRH2R2C4W2QNcKxMlg</a>
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Zoom: <a class="page-scroll" href="https://us02web.zoom.us/wc/87946073872/join/">https://us02web.zoom.us/wc/87946073872/join/</a>; Aplikazioa erabiliz gero, hau da hitzaldiaren (meeting-aren) kodea: <strong>87946073872</strong> 
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Gogoratu hitzaldia 2020ko maiatzaren 6an, 18:30tan izango dela. Lehenago goiko esteketan ez duzue ezer topatuko!
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                           </div>
+                       </div>
+                       </br>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202003 -->
 
 <div class="portfolio-modal modal fade" id="H202003" tabindex="-1" role="dialog" aria-hidden="true">
@@ -626,72 +697,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/YoO5tmfeso4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H201907 -->
-
-<div class="portfolio-modal modal fade" id="H201907" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/jjgomez.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>La Sublime Utilidad de los In&uacute;tiles Neutrinos</h3>
-                                   <h2  class="porfolio-izena">Juan Jos&eacute; G&oacute;mez Cadenas</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Los neutrinos han sido definidos como &laquo;el pedazo m&aacute;s min&uacute;sculo de realidad imaginable&raquo;.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Aparecen como producto de deshecho en las desintegraciones radioactivas y carecen de carga el&eacute;ctrica, apenas tienen masa y apenas interact&uacute;an con la materia. Son, de hecho, casi perfectos fantasmas y tan in&uacute;tiles como &eacute;stos. &iquest;O no?
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               En esta charla hablaremos, precisamente de las sorprendentes aplicaciones de los in&uacute;tiles neutrinos.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Juan Jos&eacute; G&oacute;mez Cadenas (Cartagena, 1960), fisikaria eta idazlea da. Gaur egun, Ikerbasqueren ikerlaria da Donostia International Physics Center (DIPC). Horrez gain, Canfranc-eko Lurrazpiko Laborategian (LSC) NEXT esperimentua zuzentzen du. Esperimentu honetan, nazioarteko 80 zientzialariren zuzendari delarik, neutrinoa bere antipartikula dela frogatu nahian ibili da. Aurrekoaz gain, bere ibilbide zientifikoak, hainbat leku ospetsutan lan egitera eraman du. Batzuk aipatzearren bakarrik, Stanford eta Harvard-eko unibertsitateetan, Ginebrako partikulen azeleragailuan (CERN) edota EEBBko Fermilab eta Japoniako KEK laborategietan lan egin du. Bere ibilbide profesionalaz gain, zientzia dibulgatzailea eta fikziozko eleberrien idazlea ere bada.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/N6LCg1mfTnU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
