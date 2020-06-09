@@ -52,6 +52,14 @@
                 <li class="hidden">
                   <a href="#page-top"></a>
                 </li>
+                <li class="dropdown hidden-xs">
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">Hurrengo Hitzaldia
+                    <span class="caret"></span></a>
+                    <ul class="dropdown-menu horia">
+                      <li><a class="page-scroll" href="https://us02web.zoom.us/wc/87946073872/join/">Zoom</a></li>
+                      <li><a class="page-scroll" href="https://www.youtube.com/channel/UCrcvhjRH2R2C4W2QNcKxMlg">Youtube</a></li>
+                    </ul>
+                  </li>
                 <li>
                   <a class="page-scroll" href="#gu">Nor Gara</a>
                 </li>
@@ -67,9 +75,6 @@
                       <li><a href="files/2017_Memoria.pdf">2017ko Memoria</a></li> 
                       <li><a href="files/2017_Memoria_ES.pdf">Memoria 2017</a></li>
                     </ul>
-                  </li>
-                  <li>
-                    <a class="page-scroll hidden-lg hidden-md hidden-sm" href="#hitzaldiak">Hitzaldiak</a>
                   </li>
                   <li>
                     <a class="page-scroll" href="#taldea">Taldea</a>
@@ -113,6 +118,11 @@
           <header>
             <div class="container">
               <div class="intro-text">
+                <div class="intro-lead-in">Hitzaldiak berreskuratzen ditugu ... ONLINE!!</div>
+                <div class="intro-lead-in">Bi aukera ikusteko, <a href="https://us02web.zoom.us/wc/87946073872/join/">Zoom</a> edo <a href="https://www.youtube.com/channel/UCrcvhjRH2R2C4W2QNcKxMlg">Youtube</a></div>
+                <div class="intro-lead-in">Informazio gehiago kartelean klikatuz</div>
+                </br>
+                <hr>
                 <div class="intro-lead-in">Zientziaren berri duen gizartea askeago eta manipulagaitzagoa da</div>
                 <div class="intro-heading">Zientziaren Giltzak Elkartea</div>
                 <ul class="list-inline social-buttons">
