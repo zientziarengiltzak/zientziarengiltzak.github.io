@@ -115,6 +115,7 @@
               <div class="intro-text">
                 <div class="intro-lead-in">Zientziaren berri duen gizartea askeago eta manipulagaitzagoa da</div>
                 <div class="intro-heading">Zientziaren Giltzak Elkartea</div>
+                <div class="intro-lead-in">Ikusi hitzaldiak <span class="text-alert">ZUZENEAN</span> <a href="./zuzen.html">hemen</a></div>
                 <ul class="list-inline social-buttons">
                   <li><a href="https://twitter.com/ZientziaGiltzak"><i class="fa fa-twitter"></i></a></li>
                   <li><a href="https://www.facebook.com/people/Zientziaren-Giltzak/100011667360273"><i class="fa fa-lg fa-facebook"></i></a></li>

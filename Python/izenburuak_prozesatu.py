@@ -66,6 +66,15 @@ def processhitzaldia(ref, title, name, argazkia, youtube):
     res = res + '                       </br>\n'
     if youtube!='':
         res = res + '                       <iframe width="640" height="360" src="https://www.youtube.com/embed/' + youtube + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>\n'
+    else:
+    	res = res + '                   <div class="row">\n'
+    	res = res + '                       <div class="col-lg-2 col-lg-offset-5">\n'
+    	res = res + '                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>\n'
+    	res = res + '                       </div>\n'
+    	res = res + '                   </div>\n'
+    	res = res + '                   <div class="row">\n'
+    	res = res + '                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>\n'
+    	res = res + '                   </div>\n'
     res = res + '                       </br>\n'
     res = res + '                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>\n'
     res = res + '                   </div>\n'

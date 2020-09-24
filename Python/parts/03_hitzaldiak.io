@@ -1,3 +1,92 @@
+<!-- H202009 -->
+
+<div class="portfolio-modal modal fade" id="H202009" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/xalberdifagirre.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Santa Maria Munduari Bira Eman Zion Lehen Ontzia... Zelan Ondarrutarra?</h3>
+                                   <h2  class="porfolio-izena">Xabier Alberdi eta Fernando Agirre</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi honek bi helburu ditu: 
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Batetik, XV. mende amaiera eta XVI. mende hasiera arteko Ondarroako eta, orokorrean, euskal kostaldeko itsas jardueren egoera aztertuko dugu. Ondarrutarrek, beste hainbat herrietakoekin batera, nazioarteko itsas harremanetan izan zuten funtsezko papera ikusiko dugu, hori kontuan izan gabe oso gaitza egiten baita Ondarroako ontzi bat munduari bira ematen lehena izan zela ulertzea. 
+
+                               Kontuan izan behar dugu, garai horretan euskal ontziteria hegemonikoa zela Europa ipar-mendebaldeko kostaldeen eta Meditarrenoaren arteko merkataritza harremanetan. 
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Bestetik, aipatutako garai horretan Ondarroan ontzigintzak izandako garrantzia landuko dugu eta bertako eta gainontzeko euskal portuetan eraikitzen ziren ontzien ezaugarriak aztertuko ditugu. Azken lanketa honetan, batez ere, ozeanoak zeharkatzeko oso aproposak zirela frogatu zuten, Domingo de Apalluaren Santa Maria bezalako naoak izango ditugu aztergai. XV. mendearen erdialdeaz geroztik ontzigintzak aldaketa sakonak izan zituen eta bilakaera honen emaitza garrantzitsuenetakoa, dudarik gabe, euskal naoaren garapena izan zen, aurrerantzean ozeano arteko nabigazioetan nagusi izango zena.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Fernando Agirre Aramaio ondarrutarra da, historiazalea, latin eta griegoan aditua, eta La Cartujan Teologia ikasia. Ondarroako Historia Zaleak elkarteko kidea da.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Eta Xabier Alberdi Lonbide zarauztarra da, Deustuko Unibertsitatean Historian lizentziatua (1992), Deustuko Unibertsitatean Baliabide Kulturalen Kudeaketan masterra du (1993) eta Conflictos de intereses en la econom&iacute;a mar&iacute;tima guipuzcoana durante la Edad Moderna tesiarekin Aro Berriko Historian Doktorea (Euskal Herriko Unibertsitatea, 2006).
+
+                                Gaur egun Albaola Elkarteko Ikerketa Saileko zuzendaria eta Donostiako Euskal Itsas Museoko zuzendaria da. Lehen Mundu Biraren 5. Mendeurrenaren antolaketarako Elkano Fundazioaren aholkulari lanetan dihardu. Hainbat ikerketa historiko-arkeologiko egitasmoetako zuzendaria, besteak beste, Placentia Island Project. Basque early presence in New England research Project –en zuzendarikidetza aipatu daiteke.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                                Hainbat argitalpenen egilea da, besteak beste, bere doktorego tesia den Conflictos de intereses en la econom&iacute;a mar&iacute;tima guipuzcoana durante la Edad Moderna (EHU-UPV, 2012 –Argitalpen dijitala-) eta The Victoria, an example of Basque maritime technology that enabled the first circumnavigation of the globe (1518-1522) (International Journal of Maritime History).
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202005 -->
 
 <div class="portfolio-modal modal fade" id="H202005" tabindex="-1" role="dialog" aria-hidden="true">
@@ -141,6 +230,14 @@
                            </div>
                        </div>
                        </br>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
@@ -600,104 +697,14 @@
                            </div>
                        </div>
                        </br>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H201909 -->
-
-<div class="portfolio-modal modal fade" id="H201909" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/iantiguedad.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Klimaren Aldaketa Uraren Ikuspegitik: Nondik Gatoz? Norantz Goaz?</h3>
-                                   <h2  class="porfolio-izena">I&ntilde;aki Antiguedad Auzmendi</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Asko hitz egiten da klimaren aldaketaz hedabideetan, baina gehienetan tenperaturaren igoerarekin (beroketa globala) lotzen da aldaketa, gerora begira prezipitazioetan izan daitezkeen gorabeherak bazter uzten direla.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Horrexegatik da garrantzitsua klima aldaketa urarekin ere lotzea, ura ezinbesteko gaia delako, bizimoduaren baldintzatzailea. Hortaz, noizbehinka hidrologoei egiten zaigun galdera hauxe da: Zernolako emariak izango dira gure erreketan, edo iturrietan, mende honen erdian, kasurako? Zelako joerak aurreikusten dira ur kontuetan? 
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Normalean galdetzen ez zaiguna zera da: Zer gertatu da gure erreketan azkeneko hamarkadetan? Izan ere, gertatua dena hortxe dago, jasotako emari-datuetan, gertatzekoa dena, ordea, zalantzazkoa da, oso, beraz, egon badago aldea!
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Hitzaldian saiatuko gara bi galderak erantzuten: nondik gatozen (segurua dena) eta nora goazen (dudazkoa). Eta agerian utziko dugu gerora begira ur-sistemetan izan daitezkeen aldaketak ez direla klimaren aldaketatik bakarrik etorriko baizik eta lurraldearen antolamendutik ere (batez ere, lurzoruen okupazio modutik).
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Bilbon jaioa 1955ean, Geologian Doktorea eta Hidrogeologian Katedraduna da. EHUn lizentziatu zen (1978) eta bertan segitzen du, irakasle eta ikerlari. Irakaskuntzan eta ikerkuntzan beti Ura-Lurraldea uztarriari
-
-                               lotutako gaietan jardun du.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Eusko Jaurlaritzak onetsitako Ikertalde Kontsolidatu baten (Hidro-Ingurumeneko prozesuak) arduraduna da. Hainbat proiektutan hartu du parte, bertan, estatuan zein Europan, eta artikulu zientifiko ugari argitara eman.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Ikerketa-ildo nagusiak: ur-sistemen dinamika (ibaiak, akuiferoak, hezeguneak) fluxu eta materia aldetik (kutsadura, sedimentuak), etorkizunean izan daitezkeen klima-eszenarioetako urerregimenen aurreikuspena (modelizazioa) lurzoruen erabileraren eragina oinarri hartuta (Ura eta Lurra uztarrian hartuta, Ibai-Arroaren mugartean). 
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Ikerketa-bideak zabaltzeko beste diziplinetako ikerlariekin ari da elkarlanean. Hortik dator “Global Change and Heritage” izeneko Prestakuntza eta Ikerkuntzarako Unitatea sortu izana EHUn. Unitate honen bidetik ere eratorriak dira Lurraldea, Paisaia eta Ondare Katedra eta Doktorego Programa bat. Funtsean, saiatzen dira Uraren bidez Lurraldean eragina duten jarduerak aztertzen, eta hau guztia diziplinarteko ikuspegi batetik lantzen.
-
-                               </p>
-
-                           </div>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
                        </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/YoO5tmfeso4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
