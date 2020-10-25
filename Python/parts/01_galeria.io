@@ -1,5 +1,19 @@
   <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
+        <a href="#H202010" class="portfolio-link" data-toggle="modal">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fa fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/hitzaldiak/202010.jpg" class="img-responsive" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>Argia Ttiki Egiten Denean</h4>
+          <p class="text-muted">Javier Aizpurua Iriazabal</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202009" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -41,6 +55,9 @@
           <p class="text-muted">Isabel Salcedo Larralde</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202002" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -55,9 +72,6 @@
           <p class="text-muted">Elisa Sainz de Murieta Zugadi</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202001" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -98,20 +112,6 @@
         <div class="portfolio-caption">
           <h4>Begiak Garunari Begira</h4>
           <p class="text-muted">Ane Murueta-Goiena Lrra&ntilde;aga</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 portfolio-item">
-        <a href="#H201910" class="portfolio-link" data-toggle="modal">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="fa fa-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/hitzaldiak/201910.jpg" class="img-responsive" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>De Luz y Color</h4>
-          <p class="text-muted">Sebastian Cardenete Garc&iacute;a</p>
         </div>
       </div>
   </div>

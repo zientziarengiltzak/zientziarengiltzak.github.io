@@ -1,3 +1,146 @@
+<!-- H201910 -->
+
+<div class="portfolio-modal modal fade" id="H201910" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/scardenete.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>De Luz y Color</h3>
+                                   <h2  class="porfolio-izena">Sebastian Cardenete Garc&iacute;a</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Con este t&iacute;tulo sacado de una canci&oacute;n de la famosa pel&iacute;cula “T&oacute;mbola”, de Marisol queremos resumir el
+
+                               contenido de la charla en la que vamos a realizar una serie de experiencias que pondr&aacute;n de manifiesto la naturaleza de la luz. &iquest;Qu&eacute; es la luz? &iquest;Es onda o part&iacute;cula? ...
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               El mundo que nos rodea es de color pero a qu&eacute; se deben los distintos colores de los objetos, &iquest;son de color ... o los vemos de color? Comprobaremos con experimentos sorprendentes que los objetos reflejan o
+
+                               absorben parte de la luz y por eso distinguimos distintos colores.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Estudiaremos fen&oacute;menos como la reflexi&oacute;n y refracci&oacute;n de la luz, haremos sumas y restas con los colores y podr&aacute;s comprobar que tu sombra no tiene por qu&eacute; ser negra.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Tambi&eacute;n veremos a lo largo de esta charla que hay otros tipos de luz. Estamos acostumbrados, porque vivi-
+
+                               mos inmersos en ella, a utilizar la luz “blanca” pero hay otros tipos de luz que no son tan habituales, por ello queremos que conozcas y veas c&oacute;mo ser&iacute;a el mundo que te rodea si utiliz&aacute;ramos luces como la ultravioleta o la infrarroja.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Pero es que hay adem&aacute;s otros tipos de luces como la luz l&aacute;ser, que utilizaremos en esta charla o la luz polarizada con la que tambi&eacute;n haremos alguna experiencia.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Para finalizar veremos que la luz es la fuente de informaci&oacute;n que nos llega desde otros puntos del universo. Desvelaremos aqu&iacute; el c&oacute;digo secreto que nos ha permitido descifrar dicha informaci&oacute;n.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Todo lo que hemos contado hasta ahora en nuestra charla no podr&iacute;amos verlo si no estuvi&eacute;ramos dotados
+
+                               de un &oacute;rgano que nos permite captar estos est&iacute;mulos. Se trata de nuestros ojos que nos permiten recoger y enviar la informaci&oacute;n a nuestro cerebro que es quien finalmente nos permite ver.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Lojan (Granadan) jaio zen 1956an eta Granadako Unibertsitatean Biologian lizentziatura lortu zuen.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Zientzia eta Astronomiarekin loturiko zenbait elkarteen bazkide da, hala nola ApEA, AEPECT, MECYT, Sociedad Malague&ntilde;a de Astronom&iacute;a, Agrupaci&oacute;n Astron&oacute;mica de M&aacute;laga Sirio edo Cel Fosc.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Ingurugiro hezkuntza, astronomia, zientzia dibulgazioa edo gizartearen zientziaren pertzepzioarekin erlazionatutako komunikazio edo tailerrak aurkeztu eta zuzendu ditu Espainian edo nazioarte mailan izan diren bilera, topaketa edo kongresuetan.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               “Astronomia Nazioarteko Urtean” (2009) Fundazio Descubre-k antolatu zuen “De la Tierra al Universo” erakusketaren zuzendaritza zientifikoan parte hartu zuen. 
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2017. urte arte Malagako “Centro de Ciencia Principia” zuzendu zuen, bertan antolaturiko jarduerak koordinatu zituen eta kurtsoak, hitzaldi zikloak, erakusketak, materiale didaktikoen edizioa eta zientziaren dibulgazioarekin loturiko hainbat ekitaldi zuzendu zituen.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Dibulgazio eta irakasleen formakuntzarako aldizkarietan artikulu ugari argitaratu ditu eta
+
+                               testu-liburu eta testu-liburuen kapituluen egilea ere bada.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Gaur egun jarraitzen du dibulgazioa egiten, hitzaldiak ematen eta parte hartzen zientziaren ferietan, kongresuetan eta zientziarekin erlazionaturiko beste ekitaldietan.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H201909 -->
 
 <div class="portfolio-modal modal fade" id="H201909" tabindex="-1" role="dialog" aria-hidden="true">
