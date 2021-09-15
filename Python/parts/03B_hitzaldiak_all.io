@@ -1,3 +1,99 @@
+<!-- H201911 -->
+
+<div class="portfolio-modal modal fade" id="H201911" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/amurueta.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Begiak Garunari Begira</h3>
+                                   <h2  class="porfolio-izena">Ane Murueta-Goiena Lrra&ntilde;aga</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">Parkinson gaixotasunarekin lotutako neuronen degenerazio prozesua
+
+                               sintoma motoreak sortu baino askoz ere lehenago hasten da, hau da, moteltasuna, dardara eta muskuluen go-
+
+                               gortasuna agertu aurretik. Honek esan nahi du, pertsona bateri Parkinsonaren diagnostikoa ezartzen zaionean, bere burmuinean dagoeneko neuronen galera handi bat gertatu dela eta, zoritxarrez, galdutako garuneko neuronak ezin dira berreskuratu.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Beraz, neuroendekapena hasi eta sintoma motoreak agertzen direneko tarte hori izango litzateke gaixotasuna
+
+                               ren prozesu naturala aldatzeko gai diren tratamenduak emateko momenturik egokiena. Hala ere, oraindik ez
+
+                               dugu eskuragarri Parkinson gaixotasuna aurreikusi dezakeen instrumenturik, ezta Parkinsonaren diagnostikoa duten pazienteen artean fenotipo desberdinak sailkatzeko metodorik.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Azken urteetan, Parkinsona duten gaixoen ikusmen sisteman aldaketak ikusi dira. Begia, zehazki erretina, garunaren luzapen bat da eta honek aukera bat ematen digu begiak aztertuz garuneko gaixotasunetan gertatzen diren aldaketak ulertzeko. Garun eskanerren eta erresonantziekin alderatuz, begia modu azkar, ez-inbaditzaile eta eroso baten aztertu daitezke. Gainera, erretinako irudien erresoluzio maila garuneko teknikena baino askoz handiago da eta, ondorioz, aldaketa sotilagoak detektatzeko gai izango lirateke, hau
+
+                               da, gaixotasunaren hasierako etapetan.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Beraz, begia neuroendekapeneko gaixotasunak ikertzeko bidea izan al liteke? Hitzaldi honetan galdera honi
+
+                               erantzuteko egin diren azken ikerketen berri emango dugu.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Ane Murueta-Goiena Larra&ntilde;aga ondarrutarrak optiko-optometrista karrera 2009an amaitu zuen Zaragozako Unibertsitatean eta 2018an doktoregoa Neurozientzietan lortu zuen EHUn. Duela bi urte Biocruces Bizkaia Osasun Ikerketa Institutuko neuroen-dekapeneko gaixotasunen ikerketa taldearen partaide bihurtu zen. Bere doktorego tesia animalia-ereduetan burutu zuen arren EHUn, gaur egun ikertzaile kliniko bezala dihardu, Parkinsona duten gaixoen ikusmen sistema aztertuz.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Bere ikerketa lanaren ildo nagusia erretinako eta garuneko neuroirudien bitartez Parkinson gaitzarekin lotutako dementzia aurreikustea da, horrela ba, gaixotasunaren diagnostikoa eta pronostikoa hobetuz. 10
+
+                               artikulu baino gehiago argitaratu ditu nazioarteko aldizkarietan, hauetariko 4 Parkinsoneko gaixotasunarekin lotuta eta lehenmailako aldizkarietan argitaratuak.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/5jlHL4L9xFA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H201910 -->
 
 <div class="portfolio-modal modal fade" id="H201910" tabindex="-1" role="dialog" aria-hidden="true">

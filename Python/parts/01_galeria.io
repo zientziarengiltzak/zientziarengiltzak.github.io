@@ -1,5 +1,19 @@
   <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
+        <a href="#H202109" class="portfolio-link" data-toggle="modal">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fa fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/hitzaldiak/202109.jpg" class="img-responsive" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>Minbizia Osatzen? Covida Osatzen?</h4>
+          <p class="text-muted">Iker Badiola Etxaburu</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202010" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -41,6 +55,9 @@
           <p class="text-muted">Rosa Errazkin Arrazau</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202003" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -55,9 +72,6 @@
           <p class="text-muted">Isabel Salcedo Larralde</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202002" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -98,20 +112,6 @@
         <div class="portfolio-caption">
           <h4>Ebidentzian Oinarritutako Medikuntza (EOO), Osasungintza Ulertzeko Beste Modu Bat</h4>
           <p class="text-muted">Ina Idarreta eta Idoia Alkorta</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 portfolio-item">
-        <a href="#H201911" class="portfolio-link" data-toggle="modal">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="fa fa-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/hitzaldiak/201911.jpg" class="img-responsive" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>Begiak Garunari Begira</h4>
-          <p class="text-muted">Ane Murueta-Goiena Lrra&ntilde;aga</p>
         </div>
       </div>
   </div>
