@@ -1,3 +1,86 @@
+<!-- H202110 -->
+
+<div class="portfolio-modal modal fade" id="H202110" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/iintxaurbe.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Paleolitoko Espeleologia: Lurpeko Munduaren Lehenengo Esplorazioak</h3>
+                                   <h2  class="porfolio-izena">I&ntilde;aki Intxaurbe Alberdi</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Lurpeko munduak betidanik sorrarazi ditu sentipen kontrajarriak gizakiengan. Alde batetik, ohikoa da nolabaiteko arbuioa sortzea, izan ere gizakientzat ezegokiak diren ezaugarriez beteta dago lurpeko unibertso hau: hezetasuna, hotza, estuasunak, zulo bertikal arriskutsuak eta erabateko iluntasuna. Bestetik, kobazuloek pertsona askorengan sorrarazi dute erakargarritasun berezi bat, lurpeko mundu honek bereizgarri dituen beste ezaugarri batzuengatik (misterioa, pasabideen forma bitxiak, estalaktita eta estalagmiten edertasuna, etab.). Erakargarritasun eta jakite nahiak gizaki talde batzuk bultzatu ditu antzinatik mundu hau esploratzen saiatzera. Baina noiz izan zen ezagutzen dugun esploraziorik zaharrena? Noiz hasi ziren ugaritzen kobazuloen esplorazioak?
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi honen bidez, gure espeziaren aurretik egon ziren beste hominido batzuek lurpean utzitako arrastoak aztertuko ditugu lehenik, lurpeko lehen esplorazioen bila. Honen ostean, paleolitoko labar artea duten kobazulo batzuetan aurkitutako iristeko oso zailak diren zona apaindu batzuk bisitatuko ditugu, eta kobazuloek gizakien unibertso sinbolikoaren garapenean izan zuten paperaz eztabaidatuko dugu. Azkenik gure lurraldean aurkitutako zenbait kobazulo apainduen adibideak ikusiko ditugu, gure inguruan ohikoak baitira gizateriaren 'lehen espeleologoek' egindako esplorazioek
+
+                               utzitako arrastoak.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               I&ntilde;aki Intxaurbe Alberdi, Bilbon jaioa 1992an, Enpresen Administrazio eta Zuzendaritzan graduatu zen 2014an eta euskaltegi batean lan egin zuen 2015 eta 2016 urteen artean. Bere afizioak, ordea, bestelakoak ziren (espeleologia eta labar artea) eta horrek Gernikako ADES Espeleologia Elkartean sartzera bultzatu zuen 2009an. Urte horietan, historiaurreko arkeologiari buruzko zenbait ikerketa proiektuetan bere lehen lankidetzak egin zituen, Diego Garate (IIIPC-UNICAN) doktore eta labar artean adituaren gidaritzapean. Kontuan izan behar da, lehen etapa honetan, Bizkaiko lurralde historikoan, San Pedro (Busturia), Ondaro (Nabarniz), Atxurra (Berriatua), Armintxe (Lekeitio) eta Baltzola (Dima) haitzuloen aurkikuntzetan parte hartu zuela ADESeko espeleologo gisa.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Landa-esperientzia bizi honek hirugarren zikloko ikasketak egitera bultzatu zuen 'Kuaternarioa: Ingurugiro Aldaketak eta Giza Aztarna' masterrean EHUn (2016-2018), eta bertan Masterreko amaiera lan-memoriarik garrantzitsuenaren 'Aipamen Berezia' saria lortu zuen, 2017-2018 ikasturteko Kuaternarioko Masterreko Batzorde Akademikoak emana.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Gaur egun doktorego tesia egiten ari da, Martin Arriolabengoa (EHU) eta Diego Garate (IIIPC-UNICAN) doktoreen zuzendaritzapean, Euskal Herriko Unibertsitateko Geologia sailean. Beronen izena 'Lurpeko ingurunearen esplorazioa eta jabetzea Paleolitoan: ikuspegi bat geologia eta labar artetik' da eta bere
+
+                               xedea Paleolitoko giza taldeek endokarstaren jabekuntza eta esplorazioa modu objektibo, zehatz eta kuantitatiboan aztertzea da, Goi Paleolitoko haitzulo apaindu batzuen ikerketa geomorfologiko zehatzaren eta tresna digitalen erabileraren bidez.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202109 -->
 
 <div class="portfolio-modal modal fade" id="H202109" tabindex="-1" role="dialog" aria-hidden="true">
@@ -536,88 +619,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/fUeRDqiCHOk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H201912 -->
-
-<div class="portfolio-modal modal fade" id="H201912" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/iidarreta_ialkorta.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Ebidentzian Oinarritutako Medikuntza (EOO), Osasungintza Ulertzeko Beste Modu Bat</h3>
-                                   <h2  class="porfolio-izena">Ina Idarreta eta Idoia Alkorta</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">La medicina basada en la evidencia (MBE), tiene su origen en la
-
-                               aplicaci&oacute;n de los ensayos cl&iacute;nicos en medicina en los a&ntilde;os 60 del siglo XX debido a la cr&iacute;tica que exist&iacute;a a la falta de fundamentos y a la gran variabilidad en la pr&aacute;ctica de la medicina. Es desde 1981 cuando empieza a desarrollarse lo que conocemos con el nombre de MBE-EOO.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               En noviembre de 1992, el "Evidence-Based Medicine WorkingGroup" (EBMWG) (Grupo de Trabajo en Medicina Basada en Hechos) de la Universidad McMaster, en Ontario (Canad&aacute;), public&oacute; en la revista JAMA, el art&iacute;culo titulado: Evidence-based medicine. A new approach to teachingthe practice of medicine. Se iniciaba la difusi&oacute;n de un nuevo enfoque para la pr&aacute;ctica de la medicina.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Gu EOO Osatzen elkarteko partaideak gara (Familia eta Komunitate Medikuntzako Euskal Elkartea), eta 25 bat urte gabiltza beharrean. Osasun-sistema publikoko arretako lehen mailako profesionalak gara. Gure helburua zera da: ezagutza onenetan oinarritutako medikuntza eta erizaintza praktikatzen laguntzea, eta, aldi berean, seguruagoak eta eraginkorragoak izatea. Horretarako, egunero kontsultan sortzen diren zalantzak zehatz-mehatz argitzen saiatuko gara hitzaldi honetan, eta gure jardunbidea eta esperientziak
-
-                               zuekin partekatuko ditugu.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Ina Idarreta Mendiola Nafarroako Unibertsitatean Medikuntza eta Kirurgian lizentziatu zen 1981ean. Familia eta Komunitateko Medikuntzan espezializatua. 36 urte daramatza lanean Lehen mailako arretan osasun zentro ezberdinetan; azken 30 urteak Tolosakoan. Gaur egun (2018tik) OSI Tolosaldeko Iurramendi egoitzako sendagilea da. Ebidentzian Oinarritutako Osasungintza (EOO) praktikatu du azken 25 urteetan eta EOO Osatzen (Familia eta Komunitateko Medikuntzako Euskal Elkartea) taldeko bazkidea da. Praktika honi
-
-                               buruzko hainbat ikastaro eman ditu.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Idoia Alkorta Mitxelena EHUn Medikuntza eta Kirurgian lizentziatu zen 1983an. Familia eta Komunitateko Medikuntzan espezializatua. 25 urte daramatza lanean Lehen mailako arretan: Aretxabaletako Osasun Zentroan, Errenteriako Etengabeko Arreta Gunean, etb. Gaur egun (2011tik) OSI Bidasoako 2 egoitzetako medikua da. Ebidentzian Oinarritutako Osasungintza (EOO) praktikatu du azken 18 urteetan eta EOO Osatzen
-
-                               (Familia eta Komunitateko Medikuntzako Euskal Elkartea) taldeko bazkidea da. Praktika honi buruzko hainbat ikastaro eman ditu.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/tq9nmnICbE0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
