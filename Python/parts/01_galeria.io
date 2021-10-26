@@ -9,8 +9,8 @@
           <img src="img/hitzaldiak/202111.jpg" class="img-responsive" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>Plastic Wars: Itsas Hondakinen Isilpeko Mehatxua</h4>
-          <p class="text-muted"> Oihane Cabezas Basurko</p>
+          <h4>Osasuna Gure Esku: Zer Jan XXI. Mendean?</h4>
+          <p class="text-muted">Silvia Zuluaga Goikoetxea</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 portfolio-item">
