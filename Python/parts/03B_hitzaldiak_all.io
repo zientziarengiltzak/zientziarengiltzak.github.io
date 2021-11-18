@@ -1,3 +1,81 @@
+<!-- H202002 -->
+
+<div class="portfolio-modal modal fade" id="H202002" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/esainzdemurieta.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Klima Aldaketa: Zientziaren Ikuspuntua</h3>
+                                   <h2  class="porfolio-izena">Elisa Sainz de Murieta Zugadi</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Klima-aldaketaren arazoak gero eta arreta handiagoa jasotzen ari da eta komunikabideek gero eta leku gehiago eskaintzen diote arazo honi. Euskal gizartearen kezka nagusienetakoa ere bada eta agenda politikoan ematen zaion garrantzia handitzen ari da.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Hala ere, klima-aldaketari buruzko informazioa urruneko kontu bezala aurkezten zaigu maiz, eta datu kontrajarriak ere jasotzen ditugu. Gaia, noski, konplexua da eta ikuspuntu desberdinetatik aztertu daiteke, baina gehienetan informazioa tenperatura igoerarekin dago lotuta edo muturreko gertakariekin, eta gutxi hitz egiten da aldaketa hauen jatorriaz eta bere ondorioek gure gizarte eta ekonomian izan dezaketen eragin handiaz.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi honetan klima-aldaketaren inguruko bidaia proposatzen dizuegu, zientzia oinarri izango duena. Abiapuntua, klima aldaketaren ebidentziak izango dira, gaia aldatzen ari ote den aztertuko dugu, baita aldaketa hauek, Lurraren historian gertatutakoak ikusta, ziklo natural baten ondorio diren. Gertatzen ari diren aldaketen atzean dauden faktoreak eta arrazoi nagusiak ere aztertutako ditugu, eta hauen arabera aukeran ditugun konponbideak. Azkenik, dagoeneko gertatzen ari diren eta etorkizunean jazo daitezkeen ondorioak ezagutuko ditugu eta gizarteak hauei aurre egiteko nola presta daitezkeen.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Elisa Sainz de Murietak klima-aldaketaren inpaktu eta egokitzapen neurriak aztertzen lan egiten du BC3 ikerketa zentroan. Geologian lizentziatua da Euskal Herriko Unibertsitatean. Ikasketak amaitu ondoren, Madrilera joan zen Ingurumen Ingeniaritza eta Kudeaketa Masterra egitera Industrial Antolakuntzarako Eskolan (EOI).
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2002an Mondragon Taldeko kooperatiba batean egin zuen lan 2005ean Eusko Jaurlaritzako Ingurumen Sailean hasi zen arte, Biodibertsitate zuzendaritzaren ardurarekin. Eusko Jaurlaritzan lau urtez egon eta gero doktoretza egiteko Masterra egin eta 2010ean bere tesia egiten hasi zen BC3 ikerketa zentroan. Bere doktoretzan klima-aldaketak eragindako itsas-mailaren igoerak euskal kostaldean sortu ditzakeen inpaktu eta kalte ekonomikoak aztertu zituen.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2017tik 2019ra Erresuma Batuko London School of Economics unibertsitatean egon da lanean, klima-aldaketaren inpaktuei egokitzeko neurriak eta politikak aztertuz eta egun bueltan dago BC3-n, hainbat ikerketa proiektutan murgilduta.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/KRVXSpJEDF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202001 -->
 
 <div class="portfolio-modal modal fade" id="H202001" tabindex="-1" role="dialog" aria-hidden="true">

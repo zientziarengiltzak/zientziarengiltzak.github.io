@@ -1,3 +1,88 @@
+<!-- H202112 -->
+
+<div class="portfolio-modal modal fade" id="H202112" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/ocabezas.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Plastic Wars: Itsas Hondakinen Isilpeko Mehatxua</h3>
+                                   <h2  class="porfolio-izena"> Oihane Cabezas Basurko</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Itsas hondakinak munduko itsaso eta ozeano guztietara iritsi dira, Kantauri itsasotik hasita Artikoa bezalako toki isolatuetaraino. Plastikoa nonnahi dago: itsaso hondoetan, ur geruzan, ur-azalean, itsas animalietan. Adituen arabera urtero 10 milioi tona plastiko iristen dira gure itsaso eta ozeanoetara.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Egoera hain da kezkagarria, non itsas hondakinak ozeanoentzako mehatxu berritzat izendatu dutela mundu mailako ikerlariek, eta ondorioz, maila guztietako politika eta gobernu agendetan sartu da. Eta guzti honen ondorioz itsas hondakinei irtenbide bat bilatzeko deialdiek gora egin dute, eta gehienek, gizartea, industria eta politiken elkarlana sustatzea dute helburu. Hedabide eta sare sozialetan azkar murgildu
+
+                               den fenomenoa izatera ere iritsi den arren, ibilbide honen hasieran besterik ez gaude. Eta lan haundia dago oraindik egiteke.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi honetan itsas hondakinen egoera Euskal Herrian zein den aditzera emango dugu, itsas hondakinei buruzko mantra ezberdinak argituko ditugu, esaten diren adierazpenak egiaztatu eta baztertuz. Tokian eta mundu mailan bultzatzen ari diren aurrerakuntzak aztertuko ditugu eta gizarteak mehatxu honi aurre egiteko aukera batzuk proposatuko ditugu.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Oihane C. Basurko itsas hondakinen inguruko azterketan lan egiten du AZTIn. Ingurumen Zientzietan lizentziatua da Gironako Unibertsitatean eta doktoradutza ikasketak Erresuma Batuan egin zituen itsas teknologien iraunkortasunaren azterketan (Newcastle University, 2010). Erresuma Batuan zegoela, itsasontzien lastako uren kudeaketa, itsas garraioaren karbono aztarnaren azterketa eta bere jasangarritasuna jorratzen zituen proiektuetan lan egin zuen.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2010az geroztik AZTIn lan egiten du arrantzak, akuikulturak eta itsas garraioak sortzen duten itsas hondakin eta energia aztarnaren inguruan. Horretaz gain, itsas hondakinek Bizkaiko golkoan duten presentzia ikertu du beraien ugaritasuna, iturria, jatorria eta garraioa aztertuz, itsas hondakinak monitorizatzeko eta kudeatzeko tresna eta teknologia ezberdinen garapenetan parte hartu du, eta ekonomia zirkularra
+
+                               sustatzen dituen proiektuak koordinatu ditu itsas hondakinen kutsadura ekidin eta gutxitzeko irtenbideak bilatzeko helburuarekin.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202111 -->
 
 <div class="portfolio-modal modal fade" id="H202111" tabindex="-1" role="dialog" aria-hidden="true">
@@ -79,14 +164,7 @@
                            </div>
                        </div>
                        </br>
-                   <div class="row">
-                       <div class="col-lg-2 col-lg-offset-5">
-                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
-                       </div>
-                   </div>
-                   <div class="row">
-                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
-                   </div>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/2F-faXlpXIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
@@ -558,84 +636,6 @@
                    <div class="row">
                        <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
                    </div>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H202002 -->
-
-<div class="portfolio-modal modal fade" id="H202002" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/esainzdemurieta.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Klima Aldaketa: Zientziaren Ikuspuntua</h3>
-                                   <h2  class="porfolio-izena">Elisa Sainz de Murieta Zugadi</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Klima-aldaketaren arazoak gero eta arreta handiagoa jasotzen ari da eta komunikabideek gero eta leku gehiago eskaintzen diote arazo honi. Euskal gizartearen kezka nagusienetakoa ere bada eta agenda politikoan ematen zaion garrantzia handitzen ari da.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Hala ere, klima-aldaketari buruzko informazioa urruneko kontu bezala aurkezten zaigu maiz, eta datu kontrajarriak ere jasotzen ditugu. Gaia, noski, konplexua da eta ikuspuntu desberdinetatik aztertu daiteke, baina gehienetan informazioa tenperatura igoerarekin dago lotuta edo muturreko gertakariekin, eta gutxi hitz egiten da aldaketa hauen jatorriaz eta bere ondorioek gure gizarte eta ekonomian izan dezaketen eragin handiaz.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Hitzaldi honetan klima-aldaketaren inguruko bidaia proposatzen dizuegu, zientzia oinarri izango duena. Abiapuntua, klima aldaketaren ebidentziak izango dira, gaia aldatzen ari ote den aztertuko dugu, baita aldaketa hauek, Lurraren historian gertatutakoak ikusta, ziklo natural baten ondorio diren. Gertatzen ari diren aldaketen atzean dauden faktoreak eta arrazoi nagusiak ere aztertutako ditugu, eta hauen arabera aukeran ditugun konponbideak. Azkenik, dagoeneko gertatzen ari diren eta etorkizunean jazo daitezkeen ondorioak ezagutuko ditugu eta gizarteak hauei aurre egiteko nola presta daitezkeen.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Elisa Sainz de Murietak klima-aldaketaren inpaktu eta egokitzapen neurriak aztertzen lan egiten du BC3 ikerketa zentroan. Geologian lizentziatua da Euskal Herriko Unibertsitatean. Ikasketak amaitu ondoren, Madrilera joan zen Ingurumen Ingeniaritza eta Kudeaketa Masterra egitera Industrial Antolakuntzarako Eskolan (EOI).
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               2002an Mondragon Taldeko kooperatiba batean egin zuen lan 2005ean Eusko Jaurlaritzako Ingurumen Sailean hasi zen arte, Biodibertsitate zuzendaritzaren ardurarekin. Eusko Jaurlaritzan lau urtez egon eta gero doktoretza egiteko Masterra egin eta 2010ean bere tesia egiten hasi zen BC3 ikerketa zentroan. Bere doktoretzan klima-aldaketak eragindako itsas-mailaren igoerak euskal kostaldean sortu ditzakeen inpaktu eta kalte ekonomikoak aztertu zituen.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               2017tik 2019ra Erresuma Batuko London School of Economics unibertsitatean egon da lanean, klima-aldaketaren inpaktuei egokitzeko neurriak eta politikak aztertuz eta egun bueltan dago BC3-n, hainbat ikerketa proiektutan murgilduta.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/KRVXSpJEDF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
