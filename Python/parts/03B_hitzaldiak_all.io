@@ -1,3 +1,92 @@
+<!-- H202003 -->
+
+<div class="portfolio-modal modal fade" id="H202003" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/isalcedo.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Elkarrekintza Hedatuak Baina Ezezagunak: Onddo Mikorrizikoak eta Landareak</h3>
+                                   <h2  class="porfolio-izena">Isabel Salcedo Larralde</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Onddoak bizidun talde megadibertsoa eta ezezaguna da, baina gaur egun ekosistemetako talde gakoa dela ezaguna da, eta badu giza jarduera askotan eragin handia ere. Gaur egun ezaguna da landare gehienek (% 92ek)
+
+                               onddoekin mikorrizak izendaturiko elkarte mutualistak ezarri dituztela. Eta mikorriza motei buruz hitz egingo dugu, baita interakzio horien abantailei buruz ere.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Ezagutzen ditugun perretxikoak baso guztietan daudela iruditzen zaigu, baina badakigu zergatik dauden bertan? Ba, lurralde epeleko basoetako urkiek, haritzek, pagoek, pinuek eta sahatsek ektomikorrizak (onddo-sustrai elkarteak) garatzen dituztelako, <em>Boletus</em>, <em>Russula</em> edo <em>Amanita</em> bezalako onddo-generoekin. Baina zer dago gainerako landareetan? Gramineoetan, orkideoetan, txilarretan, etab...
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Ba ikusiko dugu maitasun eta lankidetza istorio luze eta zabal honen gakoa mantenugaien trukea izan dela eta izango dela.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Hondarribian jaioa, Biologian lizentziatua Salamancan (1983) eta doktorea EHUn (1989), eta gaur egun Botanikako irakasle titularra da ZTF-FCTko Landareen Biologia eta Ekologia sailan. Unibertsitatean sartu zenetik (1983) bere ikerketa lana onddoetan ardaztu izan da, bereziki Basidiomikotoetan, ekinez bai ikuspegi taxonomiko-sistematikoak zein ekologiko eta aplikatuak. Bere irakaskuntza esperientzia zabala da eta Biologiako titulazioan eta graduondoetan zentratuta dago, bertan Botanika eta Mikologia arloetako irakasgaiak irakatsiz. Urte hauetan zehar 5 doktorego tesi zuzendu ditu. Halaber, Biologiako Gradu amaierako lanak, eta Ingurugiroaren Agrobiologia masterreko eta Biodibertsitate, Funtzionamendu eta Ekosistemen Gestioa masterreko amaierako lanak zuzendu ditu.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Urte hauetan, Iberiar Penintsulako eta eskualde Makaronesikoko onddo kortizazeoen biodibertsitateari buruz ikertzeaz gain, ikerketaildo berriak garatu ditu, komunitate fungikoen azterketari begira. Eta azterlan horietan eskuratutako ezagutzak, ekosistemen onddo-biodibertsitateari buruzko informazio globalarekin, kontserbazio-lanei ekitea ahalbidetu die.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Bestalde, kontuan izan du zientziaren dibulgazioak duen garrantzia, eta era aktiboan parte hartu du dibulgazio-hitzaldi ugaritan, dibulgazio-aldizkari zientifikoetan (adib. Zizak, Elhuyar, Ekaia, Sus-
+
+                               trai...), bai eta elkarrizketa eta bideo informatiboetan ere (Zientzialari, Teknopolis-Gertutik...).
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202002 -->
 
 <div class="portfolio-modal modal fade" id="H202002" tabindex="-1" role="dialog" aria-hidden="true">
