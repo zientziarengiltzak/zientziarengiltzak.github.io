@@ -1,3 +1,86 @@
+<!-- H202202 -->
+
+<div class="portfolio-modal modal fade" id="H202202" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/jbollain.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Oinarrizko Errenta: Etorkizuneko Tresna</h3>
+                                   <h2  class="porfolio-izena"> Julen Bollain Urbieta</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Helburua argia da: gure eredu ekonomiko eta soziala birpentsatzea eta modernizatzea. Horretarako, inpaktu globaleko egitura-aldaketetara bideratutako konponbideak bilatu behar ditugu. Bada garaia azken hamarkadetako erabaki politikoetan nagusi izan diren inertzia eta kontserbadorismoa gainetik kentzeko, eta ekonomiaren eta gizartearen aurrerabiderako bidea irekiko diguten ideia freskoen alde egiteko. Orainari, eta batez ere etorkizunari, ezin zaio aurre egin iraganeko politika zahar berberekin. Oinarrizko errenta da, hain zuzen ere, XXI. men-
+
+                               dean aurre egin behar diegun erronka handiei irtenbideak eskaintzeko neurri gauzagarrietako bat.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Eibarren jaioa, Enpresen Administrazio eta Zuzendaritzako lizentziadun ikasketak egin zituen Euskal Herriko Unibertsitatean, Bilbon, eta Bruselako Universit&eacute; Saint-Louisen. Lizentziatura amaitu eta berehala, Oxford Brookes Unibertsitateko (Ingalaterra) Nazioarteko Kudeaketa eta Nazioarteko Harremanetako master bat merituaz osatu zuen.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2021ean Garapenari buruzko Ikasketetan doktore titulua lortu zuen, Daniel Ravent&oacute;s eta Mari Luz de la Cal-en zuzendaritzapean. Bere doktore-tesia, “La viabilidad econ&oacute;mica de una
+
+                               renta b&aacute;sica en la Comunidad Aut&oacute;noma de Euskadi: un estudio de microsimulaci&oacute;n estad&iacute;stica” (Oinarrizko errenta baten bideragarritasun ekonomikoa Euskal Autonomia Erkidegoan: mikrosimulazio estatistikoaren azterketa), bikain gisa kalifikatu zuen ebaluazio-epaimahaiak.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Oinarrizko Errenta Sareko eta Basic Income Earth Network-eko (BIEN) kidea da.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Gaur egun, irakaslea eta ikertzailea da Mondragon Unibertsitatean, eta "Oinarrizko errenta: etorkizuneko tresna" liburua argitaratu berri du, Daniel Ravent&oacute;s-en hitzaurrea eta Guy Standing-en epilogoa dituena. Bigarren edizioa argitaratu da dagoeneko.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202201 -->
 
 <div class="portfolio-modal modal fade" id="H202201" tabindex="-1" role="dialog" aria-hidden="true">
@@ -547,78 +630,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/tal6-hMSV28" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H202005 -->
-
-<div class="portfolio-modal modal fade" id="H202005" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/rerrazkin.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Elhuyar Anaiak, Wolframa eta Espioitza</h3>
-                                   <h2  class="porfolio-izena">Rosa Errazkin Arrazau</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Hitzaldi hau online izango da. Ikusteko bi aukera egongo dira: Zoom aplikazioa edo Youtubeko kanala. Parte hartzeko (galderak egiteko) Zoom-era konektatu beharko da. Hauek dira sartzeko estekak:
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Youtube: <a class="page-scroll" href="https://www.youtube.com/channel/UCrcvhjRH2R2C4W2QNcKxMlg">https://www.youtube.com/channel/UCrcvhjRH2R2C4W2QNcKxMlg</a>
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Zoom: <a class="page-scroll" href="https://us02web.zoom.us/wc/87946073872/join/">https://us02web.zoom.us/wc/87946073872/join/</a>; Aplikazioa erabiliz gero, hau da hitzaldiaren (meeting-aren) kodea: <strong>87946073872</strong> 
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Gogoratu hitzaldia 2020ko maiatzaren 6an, 18:30tan izango dela. Lehenago goiko esteketan ez duzue ezer topatuko!
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/EsjhIIWc8nk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>

@@ -1,5 +1,19 @@
   <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
+        <a href="#H202202" class="portfolio-link" data-toggle="modal">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fa fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/hitzaldiak/202202.jpg" class="img-responsive" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>Oinarrizko Errenta: Etorkizuneko Tresna</h4>
+          <p class="text-muted"> Julen Bollain Urbieta</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202201" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -41,6 +55,9 @@
           <p class="text-muted">Silvia Zuluaga Goikoetxea</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202110" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -55,9 +72,6 @@
           <p class="text-muted">I&ntilde;aki Intxaurbe Alberdi</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202109" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -98,20 +112,6 @@
         <div class="portfolio-caption">
           <h4>Santa Maria Munduari Bira Eman Zion Lehen Ontzia... Zelan Ondarrutarra?</h4>
           <p class="text-muted">Xabier Alberdi eta Fernando Agirre</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 portfolio-item">
-        <a href="#H202005" class="portfolio-link" data-toggle="modal">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="fa fa-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/hitzaldiak/202005.jpg" class="img-responsive" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>Elhuyar Anaiak, Wolframa eta Espioitza</h4>
-          <p class="text-muted">Rosa Errazkin Arrazau</p>
         </div>
       </div>
   </div>

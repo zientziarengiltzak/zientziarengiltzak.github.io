@@ -1,3 +1,75 @@
+<!-- H202005 -->
+
+<div class="portfolio-modal modal fade" id="H202005" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/rerrazkin.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Elhuyar Anaiak, Wolframa eta Espioitza</h3>
+                                   <h2  class="porfolio-izena">Rosa Errazkin Arrazau</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi hau online izango da. Ikusteko bi aukera egongo dira: Zoom aplikazioa edo Youtubeko kanala. Parte hartzeko (galderak egiteko) Zoom-era konektatu beharko da. Hauek dira sartzeko estekak:
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Youtube: <a class="page-scroll" href="https://www.youtube.com/channel/UCrcvhjRH2R2C4W2QNcKxMlg">https://www.youtube.com/channel/UCrcvhjRH2R2C4W2QNcKxMlg</a>
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Zoom: <a class="page-scroll" href="https://us02web.zoom.us/wc/87946073872/join/">https://us02web.zoom.us/wc/87946073872/join/</a>; Aplikazioa erabiliz gero, hau da hitzaldiaren (meeting-aren) kodea: <strong>87946073872</strong> 
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Gogoratu hitzaldia 2020ko maiatzaren 6an, 18:30tan izango dela. Lehenago goiko esteketan ez duzue ezer topatuko!
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                           </div>
+                       </div>
+                       </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/EsjhIIWc8nk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202003 -->
 
 <div class="portfolio-modal modal fade" id="H202003" tabindex="-1" role="dialog" aria-hidden="true">
