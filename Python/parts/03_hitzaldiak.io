@@ -1,3 +1,98 @@
+<!-- H202203 -->
+
+<div class="portfolio-modal modal fade" id="H202203" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/jlopez.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>El Hielo y las Regiones Polares Ante el Cambio Clim&aacute;tico</h3>
+                                   <h2  class="porfolio-izena"> Jer&oacute;nimo L&oacute;pez Mart&iacute;nez</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Los territorios con hielo son especialmente sensibles y significados en el contexto de los cambios clim&aacute;ticos. En las regiones polares, donde se concentra la gran mayor&iacute;a del hielo, se encuentran las zonas del mundo que en la actualidad est&aacute;n sufriendo mayores cambios debido al calentamiento global. Por ello, por las repercusiones para el conjunto del planeta y por los extraordinarios registros existentes de cambios clim&aacute;ticos ocurridos en el pasado, la investigaci&oacute;n en las zonas polares resulta particularmente relevante.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               En la conferencia se comentar&aacute;n, con datos actualizados, los cambios que est&aacute;n ocurriendo en la Ant&aacute;rtida y el Ártico, as&iacute; como sus repercusiones globales. Se hablar&aacute; de la situaci&oacute;n de los glaciares y el permafrost en estas regiones. Se comentar&aacute;n los m&aacute;s recientes descubrimientos y los distintos escenarios futuros para el clima y para la subida del nivel del mar.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               En el contexto actual, es importante prestar atenci&oacute;n a estas regiones y recordar la necesidad de la cooperaci&oacute;n internacional, de lo cual la Ant&aacute;rtida es un s&iacute;mbolo y un ejemplo particularmente destacable.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Geologia Zientzietan doktorea, Zaragozako eta Madrilgo Autonomia Erkidegoko unibertsitateetako irakaslea izan da. 330 zientzia-argitalpen inguru idatzi ditu, eta horien erdiak Antartikari eta eskualde
+
+                               polarrei buruzkoak. Zientzialari gonbidatua hainbat unibertsitate eta ikerketa-zentrotan: Paris Sud-Orsay eta Waikato (Zeelanda Berria) unibertsitateetan eta British Antarctic Survey (Cambridge, Erresuma Batua) unibertsitateetan.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Ikerketa-proiektu ugari zuzendu ditu, eta hogeita hamar bat espedizio egin ditu Lurreko mendikate nagusietara eta eremu polarretara. Horietako hamaika Antartikara izan dira, non Vinson mendia, kontinente horren altitude gorenera, altxatu duen. Beste mendi askoren gailurrera ere iritsi da, Everest barne.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2012 eta 2016 bitartean, Scientific Committee on Antarctic Resesarch (SCAR) erakundearen lehendakaria izan da. Antartikako ikerketa sustatu eta koordinatzen duen nazioarteko organoa da. Poloetako ikerketarekin zerikusia duten hainbat lanpostu bete ditu Espainian eta nazioarteko erakundeetan. Antartikako Espainiako ikerketa-programaren kudeatzailea izan da. Espainiako Batzorde Polarreko
+
+                               idazkaria, SCAReko Espainiako Batzordeko lehendakaria, European Science Foundation-eko European Polar Board- en lehendakariordea, Antartikako Ingurumena Babesteko Batzordeko kidea eta 2007-2008 Nazioarteko Urte Polarraren Batzorde Antolatzaileko presidentea, Munduko Zientzia eta Erakunde Meteorologikorako Nazioarteko Kontseiluak izendatua.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Klima-aldaketarekin lotutako hainbat jarduera eta forotan parte hartu du, 2019ko abenduan egindako COP-25 barne.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                   <div class="row">
+                       <div class="col-lg-2 col-lg-offset-5">
+                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
+                   </div>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202202 -->
 
 <div class="portfolio-modal modal fade" id="H202202" tabindex="-1" role="dialog" aria-hidden="true">
@@ -541,88 +636,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/nLlXfu2cYV4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H202009 -->
-
-<div class="portfolio-modal modal fade" id="H202009" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/xalberdifagirre.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Santa Maria Munduari Bira Eman Zion Lehen Ontzia... Zelan Ondarrutarra?</h3>
-                                   <h2  class="porfolio-izena">Xabier Alberdi eta Fernando Agirre</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Hitzaldi honek bi helburu ditu: 
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Batetik, XV. mende amaiera eta XVI. mende hasiera arteko Ondarroako eta, orokorrean, euskal kostaldeko itsas jardueren egoera aztertuko dugu. Ondarrutarrek, beste hainbat herrietakoekin batera, nazioarteko itsas harremanetan izan zuten funtsezko papera ikusiko dugu, hori kontuan izan gabe oso gaitza egiten baita Ondarroako ontzi bat munduari bira ematen lehena izan zela ulertzea. 
-
-                               Kontuan izan behar dugu, garai horretan euskal ontziteria hegemonikoa zela Europa ipar-mendebaldeko kostaldeen eta Meditarrenoaren arteko merkataritza harremanetan. 
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Bestetik, aipatutako garai horretan Ondarroan ontzigintzak izandako garrantzia landuko dugu eta bertako eta gainontzeko euskal portuetan eraikitzen ziren ontzien ezaugarriak aztertuko ditugu. Azken lanketa honetan, batez ere, ozeanoak zeharkatzeko oso aproposak zirela frogatu zuten, Domingo de Apalluaren Santa Maria bezalako naoak izango ditugu aztergai. XV. mendearen erdialdeaz geroztik ontzigintzak aldaketa sakonak izan zituen eta bilakaera honen emaitza garrantzitsuenetakoa, dudarik gabe, euskal naoaren garapena izan zen, aurrerantzean ozeano arteko nabigazioetan nagusi izango zena.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Fernando Agirre Aramaio ondarrutarra da, historiazalea, latin eta griegoan aditua, eta La Cartujan Teologia ikasia. Ondarroako Historia Zaleak elkarteko kidea da.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Eta Xabier Alberdi Lonbide zarauztarra da, Deustuko Unibertsitatean Historian lizentziatua (1992), Deustuko Unibertsitatean Baliabide Kulturalen Kudeaketan masterra du (1993) eta Conflictos de intereses en la econom&iacute;a mar&iacute;tima guipuzcoana durante la Edad Moderna tesiarekin Aro Berriko Historian Doktorea (Euskal Herriko Unibertsitatea, 2006).
-
-                                Gaur egun Albaola Elkarteko Ikerketa Saileko zuzendaria eta Donostiako Euskal Itsas Museoko zuzendaria da. Lehen Mundu Biraren 5. Mendeurrenaren antolaketarako Elkano Fundazioaren aholkulari lanetan dihardu. Hainbat ikerketa historiko-arkeologiko egitasmoetako zuzendaria, besteak beste, Placentia Island Project. Basque early presence in New England research Project –en zuzendarikidetza aipatu daiteke.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                                Hainbat argitalpenen egilea da, besteak beste, bere doktorego tesia den Conflictos de intereses en la econom&iacute;a mar&iacute;tima guipuzcoana durante la Edad Moderna (EHU-UPV, 2012 –Argitalpen dijitala-) eta The Victoria, an example of Basque maritime technology that enabled the first circumnavigation of the globe (1518-1522) (International Journal of Maritime History).
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/tal6-hMSV28" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
