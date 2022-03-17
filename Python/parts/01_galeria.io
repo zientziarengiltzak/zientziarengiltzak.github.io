@@ -1,5 +1,19 @@
   <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
+        <a href="#H202204" class="portfolio-link" data-toggle="modal">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fa fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/hitzaldiak/202204.jpg" class="img-responsive" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>Arte y Ciencia tr&aacute;s el Sudoku</h4>
+          <p class="text-muted"> Mar&iacute;a Merino Maestre</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202203" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -41,6 +55,9 @@
           <p class="text-muted"> Arturo Apraiz, Fernando Sarrionandia-Ibarra, Ainhoa Alonso</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202112" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -55,9 +72,6 @@
           <p class="text-muted"> Oihane Cabezas Basurko</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202111" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -98,20 +112,6 @@
         <div class="portfolio-caption">
           <h4>Minbizia Osatzen? Covida Osatzen?</h4>
           <p class="text-muted">Iker Badiola Etxaburu</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 portfolio-item">
-        <a href="#H202010" class="portfolio-link" data-toggle="modal">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="fa fa-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/hitzaldiak/202010.jpg" class="img-responsive" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>Argia Ttiki Egiten Denean</h4>
-          <p class="text-muted">Javier Aizpurua Iriazabal</p>
         </div>
       </div>
   </div>

@@ -1,3 +1,96 @@
+<!-- H202204 -->
+
+<div class="portfolio-modal modal fade" id="H202204" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/mmerino.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Arte y Ciencia tr&aacute;s el Sudoku</h3>
+                                   <h2  class="porfolio-izena"> Mar&iacute;a Merino Maestre</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               En esta conferencia, nos sumergiremos en el mundo del Sudoku, tanto desde el punto de vista del juego como pasatiempo, como de su relaci&oacute;n con el Arte y la Ciencia y en particular, con las Matem&aacute;ticas.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               &iquest;Cu&aacute;l es la historia detr&aacute;s del Sudoku? &iquest;Ha interesado a artistas a lo largo de los &uacute;ltimos a&ntilde;os? &iquest;Cu&aacute;l es su historia? &iquest;Se puede modelizar un sudoku mediante un sistema de ecuaciones? &iquest;Cu&aacute;l es su complejidad computacional? &iquest;Cu&aacute;nto tiempo invertir&aacute; un programa de ordenador en su resoluci&oacute;n? &iquest;Existe el sudoku m&aacute;s dif&iacute;cil del mundo? &iquest;Se conoce el n&uacute;mero m&iacute;nimo de entradas necesarias?
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Procuraremos responder a estas y otras preguntas, reparando en la afici&oacute;n que despierta este juego basado en la l&oacute;gica y en el inter&eacute;s que ha suscitado en la comunidad cient&iacute;fica.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               RSMEk antolatutako XXX Matematikako Olinpiadan eskualdeko fasean sariduna izan zen 1994an. Matematikako lizentziatura lortu zuen 1999an EHUn, eta, Eusko Jaurlaritzako laguntza
+
+                               baten bidez, doktoregoa 2005ean, Optimizazio Estokastikoko arlokoa.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Gaur egun irakasle agregatua da EHUko Matematika sailean eta irakasle osoko akreditazioa du. Irakaskuntza ebaluatzeko Docentiaz programan bi aldiz lortu du bikain kalifikazioa. Modelizazioa
+
+                               eta Ikerkuntza Matematikoa, Estatistika eta Konputazioa izeneko masterreko irakaslea da eta Matematika eta Estatistikako Doktoretzaren Batzorde Ademikoaren parte da, bi tesiren zuzendarikidea izan da eta beste hiru zuzentzen dago.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Dibulgazioari dagokionez, zeinbat komunikabideetan parte hartu du: irratian (Euskadi Irratiako Graffiti, Bilbao Hiria Irratiako Zientzialariak), telebistan (EiTBko Esc&eacute;pticos), blogetan (EHUko Kultura Zientifikoko Katedrako Zientzia Kaiera eta Mujeres con ciencia), RSMEko divulgaMAT web atarian, eta zientzia heda- tzeko hainbat aldizkaritan eta hitzalditan.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Ikerkuntza dela eta, Optimizazio Estokastikoko ikerkuntza taldeko koordinatzailea da. Hirurogei lan zientifiko inguru argitaratu ditu, haien artean nazioarteko inpaktu faktore handiko hogei artikulu, ikerkuntzako hogeita hamar proiektutan parte hartu du, horietako hirutan ikertzaile nagusia izanik. Basque Center for Applied Mathematics BCAMeko ikertzailea da. Ikerkuntza Operatiboko aldizkari
+
+                               zientifiko batzuen errebisorea da eta transferentziazko hainbat proiektu eta akordioetan parte hartu du.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202203 -->
 
 <div class="portfolio-modal modal fade" id="H202203" tabindex="-1" role="dialog" aria-hidden="true">
@@ -75,14 +168,6 @@
                            </div>
                        </div>
                        </br>
-                   <div class="row">
-                       <div class="col-lg-2 col-lg-offset-5">
-                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
-                       </div>
-                   </div>
-                   <div class="row">
-                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
-                   </div>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
@@ -158,14 +243,6 @@
                            </div>
                        </div>
                        </br>
-                   <div class="row">
-                       <div class="col-lg-2 col-lg-offset-5">
-                           <a href="./zuzen.html"><img src="img/youtube_zuzenean.jpg" class="img-responsive" alt=""></a>
-                       </div>
-                   </div>
-                   <div class="row">
-                       <p>Hitzaldia hastear dagoenean, konektatu zaitezte <a href="./zuzen.html">gure kanalera</a> eta zuzeneko emisioan sartu</p>
-                   </div>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
@@ -570,72 +647,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/NsqUuQpYShs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H202010 -->
-
-<div class="portfolio-modal modal fade" id="H202010" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/jaizpurua.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Argia Ttiki Egiten Denean</h3>
-                                   <h2  class="porfolio-izena">Javier Aizpurua Iriazabal</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Argiaren uhin-izaerak materiaren eta argiaren arteko elkarrekintzaren zenbait ezaugarri finkatzen ditu teoria elektromagnetikoaren barruan. Horien artean, aipatzekoa da difrakzio-muga, mikrometro erdi baten azpitik argia lokalizatzea ahalbidetzen ez duena. Hitzaldi honetan metalezko nanopartikulen elektroi eroaleen kitzikapenaren bitartez, argia difrakzio azpiko dimentsioetara eramatea nola lortzen den erakutsiko da. Metalezko nanoegiturek argia harrapatzen eta igortzen duten nanoantena moduan, beraz nanoantena hauek fotonika nanoeskalaren erresumara eramaten dute, Nanofotonikaren arloa sortuz. Testuinguru honetan, nanoantena optikoen aplikazio teknologikoetako batzuk erakutsiko dira zenbait arlotan: besteak beste, nanoskopia optikoan, gainazalek handitutako espektroskopia molekularrean, terapia onkologikoan, energi metaketan, metamaterialetan, edota informazioaren teknologietan.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Javier Aizpurua Ikerketa Zientifikoen Goi Kontseiluko (CSIC) ikerketa irakaslea da Donostiako Materialen Fisika Zentroan, zentro mistoan (CSIC-UPV/EHU), eta "Nanofotonikaren Teoria" taldeko arduraduna da bertan.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               1998an lortu zuen Fisika Zientzietako doktoretza Euskal Herriko Unibertsitatean (EHU), elektroi azkarren eta nanoegituren elkarreraginari buruz. Doktoretza egin ondoren, doktoretza ondoko bi egonaldi egin zituen Suediako Göteborgeko Chalmers Unibertsitate Teknologikoan eta AEBetako National Institute of Standards and Technology (NIST) delakoan. Donostia International Physics Center-era batu zen 2004an, Fellow ikertzaile gisa, eta han hasi zen nanofotonikaren teoria taldea osatzen. 2008an, CSICeko ikertzaile postua lortu zuen, Materialen Fisika Zentroan, eta bertan garatzen du bere jarduera ordutik.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Aizpuruak argiaren eta materiaren arteko elkarrekintza nanoeskalan aztertzen du, nanoantena metalikoen erantzun optikoan eta nanoeskalako efektu kuantikoetan arreta berezia jarriz. Bere ekarpen garrantzitsuenen artean, espektroskopia eta mikroskopia molekular ugaritan kitzikapen optikoak ulertzea ahalbidetu duten eredu eta kalkuluen garapena dago. Azken urte hauetan, Aizpurua munduko ikertzailerik aipatuenetako zerrenda ofizialean izendatua izan da. 200 bat artikulu argitaratu ditu Nanofotonikaren esparruan, gai horri buruzko 10 doktore-tesi zuzenduta, eta arlo horretako erreferentziazko ikertzaileetako bat da. 
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/nLlXfu2cYV4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
