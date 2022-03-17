@@ -168,6 +168,7 @@
                            </div>
                        </div>
                        </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/DpYdc_FiBi8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
@@ -243,6 +244,7 @@
                            </div>
                        </div>
                        </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/ZdlG_sahGvI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
