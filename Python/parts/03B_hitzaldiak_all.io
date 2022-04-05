@@ -1,3 +1,89 @@
+<!-- H202109 -->
+
+<div class="portfolio-modal modal fade" id="H202109" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/ibadiola.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Minbizia Osatzen? Covida Osatzen?</h3>
+                                   <h2  class="porfolio-izena">Iker Badiola Etxaburu</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Zein ez da beldurtzen minbizia entzutean? Nork ez du bere inguruan minbizi kasuren bat ezagutu? Zenbat minbizi kasu diagnostikatzen dira urtero munduan? Zer dago gaixotasun honen atzean? Nondik sortzen da eta zelan? Zergatik dan hain hilkorra? Gaur egunean minbizi kasu gehiago daude antzina baino? Gaur egungo bizimoduaren ondorioa da minbizia? Zergatik minbizi mota batzuk ahal dira osatu eta beste batzuk ez? Zergatik agertu daiteke osatu eta denbora batera?
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Hainbat galdera daude gaur egunean hain ezaguna den gaixotasun honen atzean eta oinarri-oinarrian gure gorputza eratzen duten zelulak daude. Ekin diezaiogun bada minbiziaren istorioa zeluletatik kontatzeari.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Gure gorputzeko adreiluak zelulak dira. Bilioika zelulen batura baino ez gara. Zelula hauek elkarlanean eta armonian bizi dira, eta bakar baten gaiztotzeak sor dezake minbizia. Horrela hasiko gara kontatzen karramarro izenarekin hain ezagun egin den minbiziaren istorioa. Minbiziaren ikuspegi zelularra, metastasia, geneak, minbizi zelula-amak, minbiziaren mikroingurunea, guztiak pelikula bereko aktoreak baino ez dira.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi honetan minbiziaren sorkuntzatik hasiko gara eta metastasia moduko prozesuak ahalbidetzen dituzten baldintzak azalduko ditugu. Ondoren, minbizia eta COVID-19aren arteko harremana eta terapiak azalduko ditugu.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Iker Badiola Etxaburu ondarrutarra da eta Euskal Herriko Unibertsitateko Medikuntza eta Erizaintza Fakultateko irakasle eta ikertzailea.
+
+                               <p>
+
+                               <p class="text-justify text-muted">
+
+                               25 artikulu, 5 liburu (bat minbiziari buruzko dibulgazio liburua), eta patente baten egilea da, 2 dok-
+
+                               tore tesien zuzendaria izateaz gain. Bere ikerketa esparrua koloneko minbiziak sortutako gibeleko metastasia da, beti ere ikuspegi zelular batetik.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2006an Japoniako Niigata hirian, 13. ISCHS kongresuan, ikertzaile gazte onenaren saria irabazi zuen, eta 2019an Galizako Errege Akademiaren Ernesto Vieitez Saria. Innoprot SL eta Nanokie Therapeutics SL enpresen sortzailea da eta zientziaren dibulgazioan aktiboki parte hartzen du.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/NsqUuQpYShs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202010 -->
 
 <div class="portfolio-modal modal fade" id="H202010" tabindex="-1" role="dialog" aria-hidden="true">

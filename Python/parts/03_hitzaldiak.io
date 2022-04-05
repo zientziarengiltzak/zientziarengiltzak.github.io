@@ -1,3 +1,100 @@
+<!-- H202204_2 -->
+
+<div class="portfolio-modal modal fade" id="H202204_2" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/ierrea.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Supereroankortasuna, Markak Hausten!</h3>
+                                   <h2  class="porfolio-izena"> Ion Errea Lope</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Supereroankortasuna materialen konplexutasuna islatzen duen propietate berezi eta bikaina da. Metal batzuk, tenperatura ia zero absolutura jaisterakoan, euren erresistentzia elektriko osoa galtzen
+
+                               dute. Supereroaleak, beraz, itzelezko materialak dira, ez baitiote korronte elektrikoari inongo erresistentziarik ezartzen, eta ondorioz, galerarik gabeko elektroi garraioa lortzeko eta eremu magnetiko bortitzak sortzeko erabil daitezke. Honek, teknologia iraultza bat ekar lezake esparru askotan. Supereroaleak lortzeko tenperatura oso hotzak behar direnez ordea, supereroaleen teknologia oso poliki ari da garatzen tamalez.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Giro-baldintzetako supereroankortasuna lortzea da, hortaz, fisikaren erronkarik nagusienetakoa. Azken bost urteetan aurrerapen handiak egon dira hidrogeno konposatuetan. Inoiz behatu diren supereroale beroenak deskubritu dira, 15oC-tan ere supereroale direnak. Tamalez, oso presio handia behar da hauek supereroale bihurtzeko. Itxaropena dago, ordea, hidrogenotan aberatsa den konposaturen batean giro-presioan ere tenperatura altuko supereroankortasuna behatzeko.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi honetan supereroankortasunaren historia errepasatu eta azken urteek emandako itxaropen berriak aztertuko dira.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Ion Erreak (Donostia, 1984) Euskal Herriko Unibertsitatean (UPV/EHU) Fisikako lizentzia (2007) eta doktoregoa (2011) eskuratu ditu. Doktorego osteko ikertzaile aritu da Parisko Universit&eacute; Pierre et
+
+                               Marie Curie-n eta Donostia International Physics Center-en (DIPC). Finalista izan zen 2015 Volker Heine Young Investigator Award sarietan, eta Journal of Physics: Condensed Matter argitalpenak Emerging Leader izendatu zuen.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               2018az geroztik, EHUren Materialen Fisika Zentroan Quantum Theory of Materials ikertaldeko burua da, eta, 2015etik, irakaslea Fisika Aplikatua Sailean (EHU) eta DIPCeko ikertzaile elkartua.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Bere ikerketa-ildo nagusia solidoen propietate konplexuak kalkulatzeko metodo teorikoak garatzea da: efektu kuantikoak eta ez-harmonikoak bibrazio atomikoetan; elektroi-fonoi interakzioa; eta metodo horiek aplikatzea supereroaleetan, hain zuzen, hidrogenoan oinarritutakoetan, material termoelektrikoetan, solidoen eta nanoegituren fase-trantsizioetan eta abarrean.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Ion Errea liderra da ERC-European Research Councilek finantzatzen duen Starting Grant proiektuko Discovery and Characterization of Hydrogen-Based High-Temperature Superconductors egitasmoan. Gainera, beste agentzia batzuek finantzatzen dituzten ikerketa-proiektuetan hartzen du parte (Espainiako Gobernua, PRACE, etab.).
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Ikerketa-lan horien guztien ondorioz artikulu zientifikoak argitaratu ditu ospe handiko aldizkarietan, esaterako Nature, Proceedings of the National Academy of Sciences of the United States of America, Nano Letters eta Physical Review Letters argitalpenetan. Era berean, hizlari aritu da nazioarteko hamaika biltzarretan.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202204 -->
 
 <div class="portfolio-modal modal fade" id="H202204" tabindex="-1" role="dialog" aria-hidden="true">
@@ -563,92 +660,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/o0biJFug9ig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H202109 -->
-
-<div class="portfolio-modal modal fade" id="H202109" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/ibadiola.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Minbizia Osatzen? Covida Osatzen?</h3>
-                                   <h2  class="porfolio-izena">Iker Badiola Etxaburu</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Zein ez da beldurtzen minbizia entzutean? Nork ez du bere inguruan minbizi kasuren bat ezagutu? Zenbat minbizi kasu diagnostikatzen dira urtero munduan? Zer dago gaixotasun honen atzean? Nondik sortzen da eta zelan? Zergatik dan hain hilkorra? Gaur egunean minbizi kasu gehiago daude antzina baino? Gaur egungo bizimoduaren ondorioa da minbizia? Zergatik minbizi mota batzuk ahal dira osatu eta beste batzuk ez? Zergatik agertu daiteke osatu eta denbora batera?
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Hainbat galdera daude gaur egunean hain ezaguna den gaixotasun honen atzean eta oinarri-oinarrian gure gorputza eratzen duten zelulak daude. Ekin diezaiogun bada minbiziaren istorioa zeluletatik kontatzeari.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Gure gorputzeko adreiluak zelulak dira. Bilioika zelulen batura baino ez gara. Zelula hauek elkarlanean eta armonian bizi dira, eta bakar baten gaiztotzeak sor dezake minbizia. Horrela hasiko gara kontatzen karramarro izenarekin hain ezagun egin den minbiziaren istorioa. Minbiziaren ikuspegi zelularra, metastasia, geneak, minbizi zelula-amak, minbiziaren mikroingurunea, guztiak pelikula bereko aktoreak baino ez dira.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Hitzaldi honetan minbiziaren sorkuntzatik hasiko gara eta metastasia moduko prozesuak ahalbidetzen dituzten baldintzak azalduko ditugu. Ondoren, minbizia eta COVID-19aren arteko harremana eta terapiak azalduko ditugu.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Iker Badiola Etxaburu ondarrutarra da eta Euskal Herriko Unibertsitateko Medikuntza eta Erizaintza Fakultateko irakasle eta ikertzailea.
-
-                               <p>
-
-                               <p class="text-justify text-muted">
-
-                               25 artikulu, 5 liburu (bat minbiziari buruzko dibulgazio liburua), eta patente baten egilea da, 2 dok-
-
-                               tore tesien zuzendaria izateaz gain. Bere ikerketa esparrua koloneko minbiziak sortutako gibeleko metastasia da, beti ere ikuspegi zelular batetik.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               2006an Japoniako Niigata hirian, 13. ISCHS kongresuan, ikertzaile gazte onenaren saria irabazi zuen, eta 2019an Galizako Errege Akademiaren Ernesto Vieitez Saria. Innoprot SL eta Nanokie Therapeutics SL enpresen sortzailea da eta zientziaren dibulgazioan aktiboki parte hartzen du.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/NsqUuQpYShs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>

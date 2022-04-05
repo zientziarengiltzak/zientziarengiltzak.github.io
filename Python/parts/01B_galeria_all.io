@@ -1,5 +1,19 @@
   <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
+        <a href="#H202109" class="portfolio-link" data-toggle="modal">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fa fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/hitzaldiak/202109.jpg" class="img-responsive" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>Minbizia Osatzen? Covida Osatzen?</h4>
+          <p class="text-muted">Iker Badiola Etxaburu</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202010" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -41,6 +55,9 @@
           <p class="text-muted">Rosa Errazkin Arrazau</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202003" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -55,9 +72,6 @@
           <p class="text-muted">Isabel Salcedo Larralde</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202002" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -100,6 +114,9 @@
           <p class="text-muted">Ina Idarreta eta Idoia Alkorta</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201911" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -114,9 +131,6 @@
           <p class="text-muted">Ane Murueta-Goiena Lrra&ntilde;aga</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201910" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -159,6 +173,9 @@
           <p class="text-muted">Juan Jos&eacute; G&oacute;mez Cadenas</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201906" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -173,9 +190,6 @@
           <p class="text-muted">Nahia Gartzia Bengoetxa</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201905" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -218,6 +232,9 @@
           <p class="text-muted">Jon Larruskain Zabala</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201902" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -232,9 +249,6 @@
           <p class="text-muted">Eneritz G&oacute;mez L&aacute;zaro</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201901" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -277,6 +291,9 @@
           <p class="text-muted">Sarai Montes Aguilar</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201810_2" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -291,9 +308,6 @@
           <p class="text-muted">Amaia Aulestia eta Jose Santos</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201810" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -336,6 +350,9 @@
           <p class="text-muted">Arturo Elosegi Irrutia</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201805" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -350,9 +367,6 @@
           <p class="text-muted">Daniel Lasa Etxegoien</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201804" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -395,6 +409,9 @@
           <p class="text-muted">Ander Mart&iacute;nez de Albeniz Ausin</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201801" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -409,9 +426,6 @@
           <p class="text-muted">Jose Antonio Lozano Alonso</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201712" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -454,6 +468,9 @@
           <p class="text-muted">Pilar Hern&aacute;ndez Gamazo</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201710" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -468,9 +485,6 @@
           <p class="text-muted">Pablo Mart&iacute;nez-Lage</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201706" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -513,6 +527,9 @@
           <p class="text-muted">Aitor Zabalgogeazkoa Llodio</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201704" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -527,9 +544,6 @@
           <p class="text-muted">Fernando Garitagoitia Pradera</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201703" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -572,6 +586,9 @@
           <p class="text-muted">Juan J. Iruin Sanz</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201612" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -586,9 +603,6 @@
           <p class="text-muted">Josu Ceberio Uribe</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201611" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -631,6 +645,9 @@
           <p class="text-muted">Francisco Etxeberria Gabilondo</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H201609" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -645,9 +662,6 @@
           <p class="text-muted">Diego Garate Maidagan</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#Aurrekoak" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
