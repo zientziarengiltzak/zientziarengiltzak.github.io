@@ -1,3 +1,66 @@
+<!-- H202205 -->
+
+<div class="portfolio-modal modal fade" id="H202205" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/asierrammarquezmpereira.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Neurociencia: Vida Despu&eacute;s de la Muerte (de las Neuronas)</h3>
+                                   <h2  class="porfolio-izena"> Amanda Sierra, Mar Marqu&eacute;z, Marta Pereira</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               En esta charla, empezaremos dando una visi&oacute;n global de lo que es la ciencia y el m&eacute;todo cient&iacute;fico, y lo que separa la ciencia del bulo. A continuaci&oacute;n, explicaremos con m&aacute;s detalle qu&eacute; estudia exactamente la Neurociencia, y qu&eacute; sabemos (y qu&eacute; no) de c&oacute;mo funciona nuestro cerebro. Terminaremos la charla compartiendo nuestro trabajo en el laboratorio, en el que estudiamos los "carro&ntilde;eros" del cerebro, unas c&eacute;lulas de tama&ntilde;o muy peque&ntilde;o llamadas microgl&iacute;a que se especializan en la retirada de neuronas muertas durante el desarrollo y las enfermedades neurodegenerativas.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Amanda Sierra Ikerbasque Funda zioko ikerketa-irakaslea da 2011z geroztik, Achucarro Neurozientzien Euskal Zentroko Biologia Zelular Glialeko Laborategiko zuzendaria da eta EHUko Neurozientzien Sai-
+
+                               leko laguntzaile akademikoa. Biologian lizentziaduna da (Madrilgo Unibertsitate Konplutentsea) eta Neurozientzietan tesia egin zuen Madrilgo Instituto Cajal-en eta New Yorkeko Rockefeller University eta Stony Brook Universityn eta Houstongo Baylor College of Medicine-n jarraitu zuen bere prestakuntza zientifikoa.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Mar M&aacute;rquez eta Marta Pereira ikertzaileak dira eta doktore-tesia Biologia Zelular Glialeko Laborategian egiten ari dira. Mar M&aacute;rquez Psikologian lizentziaduna da EHUn, eta bere doktore-tesia musikarekiko grinarekin bateratzen du, lehen diskoa grabatu berri baitu. Marta Pereira Biokimikan lizentziaduna da Bartzelonako Unibertsitatean.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202204_2 -->
 
 <div class="portfolio-modal modal fade" id="H202204_2" tabindex="-1" role="dialog" aria-hidden="true">
@@ -585,82 +648,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/2F-faXlpXIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H202110 -->
-
-<div class="portfolio-modal modal fade" id="H202110" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/iintxaurbe.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Paleolitoko Espeleologia: Lurpeko Munduaren Lehenengo Esplorazioak</h3>
-                                   <h2  class="porfolio-izena">I&ntilde;aki Intxaurbe Alberdi</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Lurpeko munduak betidanik sorrarazi ditu sentipen kontrajarriak gizakiengan. Alde batetik, ohikoa da nolabaiteko arbuioa sortzea, izan ere gizakientzat ezegokiak diren ezaugarriez beteta dago lurpeko unibertso hau: hezetasuna, hotza, estuasunak, zulo bertikal arriskutsuak eta erabateko iluntasuna. Bestetik, kobazuloek pertsona askorengan sorrarazi dute erakargarritasun berezi bat, lurpeko mundu honek bereizgarri dituen beste ezaugarri batzuengatik (misterioa, pasabideen forma bitxiak, estalaktita eta estalagmiten edertasuna, etab.). Erakargarritasun eta jakite nahiak gizaki talde batzuk bultzatu ditu antzinatik mundu hau esploratzen saiatzera. Baina noiz izan zen ezagutzen dugun esploraziorik zaharrena? Noiz hasi ziren ugaritzen kobazuloen esplorazioak?
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Hitzaldi honen bidez, gure espeziaren aurretik egon ziren beste hominido batzuek lurpean utzitako arrastoak aztertuko ditugu lehenik, lurpeko lehen esplorazioen bila. Honen ostean, paleolitoko labar artea duten kobazulo batzuetan aurkitutako iristeko oso zailak diren zona apaindu batzuk bisitatuko ditugu, eta kobazuloek gizakien unibertso sinbolikoaren garapenean izan zuten paperaz eztabaidatuko dugu. Azkenik gure lurraldean aurkitutako zenbait kobazulo apainduen adibideak ikusiko ditugu, gure inguruan ohikoak baitira gizateriaren 'lehen espeleologoek' egindako esplorazioek
-
-                               utzitako arrastoak.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               I&ntilde;aki Intxaurbe Alberdi, Bilbon jaioa 1992an, Enpresen Administrazio eta Zuzendaritzan graduatu zen 2014an eta euskaltegi batean lan egin zuen 2015 eta 2016 urteen artean. Bere afizioak, ordea, bestelakoak ziren (espeleologia eta labar artea) eta horrek Gernikako ADES Espeleologia Elkartean sartzera bultzatu zuen 2009an. Urte horietan, historiaurreko arkeologiari buruzko zenbait ikerketa proiektuetan bere lehen lankidetzak egin zituen, Diego Garate (IIIPC-UNICAN) doktore eta labar artean adituaren gidaritzapean. Kontuan izan behar da, lehen etapa honetan, Bizkaiko lurralde historikoan, San Pedro (Busturia), Ondaro (Nabarniz), Atxurra (Berriatua), Armintxe (Lekeitio) eta Baltzola (Dima) haitzuloen aurkikuntzetan parte hartu zuela ADESeko espeleologo gisa.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Landa-esperientzia bizi honek hirugarren zikloko ikasketak egitera bultzatu zuen 'Kuaternarioa: Ingurugiro Aldaketak eta Giza Aztarna' masterrean EHUn (2016-2018), eta bertan Masterreko amaiera lan-memoriarik garrantzitsuenaren 'Aipamen Berezia' saria lortu zuen, 2017-2018 ikasturteko Kuaternarioko Masterreko Batzorde Akademikoak emana.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Gaur egun doktorego tesia egiten ari da, Martin Arriolabengoa (EHU) eta Diego Garate (IIIPC-UNICAN) doktoreen zuzendaritzapean, Euskal Herriko Unibertsitateko Geologia sailean. Beronen izena 'Lurpeko ingurunearen esplorazioa eta jabetzea Paleolitoan: ikuspegi bat geologia eta labar artetik' da eta bere
-
-                               xedea Paleolitoko giza taldeek endokarstaren jabekuntza eta esplorazioa modu objektibo, zehatz eta kuantitatiboan aztertzea da, Goi Paleolitoko haitzulo apaindu batzuen ikerketa geomorfologiko zehatzaren eta tresna digitalen erabileraren bidez.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/o0biJFug9ig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>

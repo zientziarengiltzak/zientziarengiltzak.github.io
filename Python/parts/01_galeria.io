@@ -1,5 +1,19 @@
   <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
+        <a href="#H202205" class="portfolio-link" data-toggle="modal">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              <i class="fa fa-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/hitzaldiak/202205.jpg" class="img-responsive" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>Neurociencia: Vida Despu&eacute;s de la Muerte (de las Neuronas)</h4>
+          <p class="text-muted"> Amanda Sierra, Mar Marqu&eacute;z, Marta Pereira</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202204_2" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -41,6 +55,9 @@
           <p class="text-muted"> Jer&oacute;nimo L&oacute;pez Mart&iacute;nez</p>
         </div>
       </div>
+  </div>
+
+  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202202" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -55,9 +72,6 @@
           <p class="text-muted"> Julen Bollain Urbieta</p>
         </div>
       </div>
-  </div>
-
-  <div class="row">
       <div class="col-md-3 col-sm-6 portfolio-item">
         <a href="#H202201" class="portfolio-link" data-toggle="modal">
           <div class="portfolio-hover">
@@ -98,20 +112,6 @@
         <div class="portfolio-caption">
           <h4>Osasuna Gure Esku: Zer Jan XXI. Mendean?</h4>
           <p class="text-muted">Silvia Zuluaga Goikoetxea</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6 portfolio-item">
-        <a href="#H202110" class="portfolio-link" data-toggle="modal">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="fa fa-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/hitzaldiak/202110.jpg" class="img-responsive" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>Paleolitoko Espeleologia: Lurpeko Munduaren Lehenengo Esplorazioak</h4>
-          <p class="text-muted">I&ntilde;aki Intxaurbe Alberdi</p>
         </div>
       </div>
   </div>
