@@ -1,3 +1,95 @@
+<!-- H202111 -->
+
+<div class="portfolio-modal modal fade" id="H202111" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/szuluaga.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Osasuna Gure Esku: Zer Jan XXI. Mendean?</h3>
+                                   <h2  class="porfolio-izena">Silvia Zuluaga Goikoetxea</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Jakin badakigu gure osasuna, ongizatea eta bizitza kalitatea gure bizimodu eta elikadurarekin lotuta daudela.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Gaur egun elikadura osasuntzuz mezuz inguratuta gaude. Eta horren guztien artean, zelan jakin zer jan diabetesentzat, hipertentsiorako, pisua galtzeko eta beste gaixotasun batzuk saihesteko edo
+
+                               osatzeko? Superalimentoak, elikagai funtzionalak edo suplementuak behar ditut?
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Azukreak, gantzak, kaloriak, zertan jarri arreta etiketak irakurtzean?
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Egunero jan behar dugunez garrantzitsua da aproposak diren elikagaiak hautatzea.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Nafarroako Unibertsitatean Medikuntza era Kirurgia orokorrean Lizentziatua. Bordeleko Unibertsitatean Dietetika eta Janari Higienean Postgraduko Diplomaduna. Distantzia Unibertsitatean (UNED) Obesitate eta Elikadura portaerako trastornoen arloko Espezializatua. Microbiotika, genetika, nutrigenetika, medikuntza pertsonalizatua eta hainbat distantziako kurtsoen diplomaduna.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               25 urte baino gehiago bere kontsultan pazienteei argaltzen laguntzen eta ondo jaten erakusten. Donostian, Eibarren eta Irunen izan ditu kontsultak eta gaur egun Donostian eta onlinen (bideokontsultak). 
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Hainbat kolaboratzaile artikulu idatzi ta gero bertako aldizkari eta egunkarietan, 2015an hasi zuen bere blogean, doctorazuluaga.com-en artikuluak idazten.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Bere lanbidearekin lotutako liburu bi argitaratu ditu: "¡A dieta! En la vida real" 2018an eta "¡El peso, ¡por fin, mi amigo! Las claves para adelgazar y mantenerte" 2019an.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/2F-faXlpXIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202110 -->
 
 <div class="portfolio-modal modal fade" id="H202110" tabindex="-1" role="dialog" aria-hidden="true">

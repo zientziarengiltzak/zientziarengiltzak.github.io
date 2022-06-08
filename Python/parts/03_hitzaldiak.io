@@ -1,3 +1,68 @@
+<!-- H202206 -->
+
+<div class="portfolio-modal modal fade" id="H202206" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/legiguren.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Erlojuaren Orratzak Larrialdietan</h3>
+                                   <h2  class="porfolio-izena"> Leire Egiguren Urrosolo </h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Itxaron ezin duen gaitz bat pairatzen dugunean, emergentzia zerbitzuei deitzen diegu edo ospitaleko larrialdi zerbitzuetara joaten gara. Eta noski, larrialdi zerbitzu batean gaudenez, gertatzen zaiguna arin konpontzea nahi dugu: daukagun mina kendu edo arintzea, daramagun zalantza argitzea edo ezinegona baretzea. Orduan hasten dira baina erlojuari begiratuak eta kirioen dantzak, jende asko bilatzen baitugu itxaron gelan. Han daudenak gainera hitzordurik gabe joan dira, norbera bezalaxe...eta noiztik ote daude han? lanera iritsiko al naiz? nire aurretik 4 hauek daude...beraz ni 5.a...e? Hori nire atzetik etorri da eta lehenago pasa dute??? Azken ordu betean ez diote inori deitu, medikuak kafea hartzen egongo dira, seguru. Anbulantzian heldu den hori hain gaizki ote dator? Erlojua oso poliki mugitzen da... eta itxaron gela inpreinua bihurtu!
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Badaude moduak, noski, denbora tarte murriztu batean leku berberean pilatzen diren gaixo guztiak ordenatzeko, gizakiak egiten dituenak eta baita informatikoak ere; eritasunaren, aurrekarien, adinaren, itxarote denbora eta beste zenbait parametroren arabera paziente heldu berriak ordenatzen dituztenak. Larrialdi zerbitzuak kaos bat lirateke horiek gabe. Jakin behar duguna da, ordea, biziak salbatzeko tresnak direla. Gaitz batzuk, denbora zehatz bat daukate artatuak izan  eta soluzioa emateko, bestela gaixoaren bizia arriskuan jarri daiteke edo bertan bukatu. Horregatik da hain garrantzitsua hauek atzeman eta lehenestea, bitartean beste batzuk itxaron gelan aspertzen edo ernegatzen dauden bitartean.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               112ra telefono deiak irisiten direnean ere, beste aldean gertatzen ari denaren informazio zipristintxo batzuekin bakarrik erabaki beharra dago ze laguntza mota bidaliko zaion. Ez gutxiegizkoa... baina, kontuz! ez gehiegizkoa ere, beste nonbait beste zerbait larriagoa gertatu daiteke handik segundu gutxira eta okupatuta dagoen baliabidea behar izan dezake. Nola neurtu hau guztia?
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Leire Egiguren Urrosolo ondarrutarra da, EHUn Medikuntzan lizentziatua. Familia eta Komunitate medikuntzan espezializatua Debabarrenako OSIan. Eibarko Torrekua osasun zentruan eta Mendaroko Ospitalean trebatu zen egoiliar gisa 4 urtetan zehar, eta ordundik Mendaroko ospitaleko larrialdi zerbitzuan lan egiten du. Egoilarren ardura darama eta BBB (Bihotz Birika Bizkortzea) ikastaroetan parte hartzen du irakasle gisa. 2019 bukaeratik Bizi Euskarri Aurreratuko anbulantzietan lan egiten du Elgoibar eta Tolosako baseetan.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202205 -->
 
 <div class="portfolio-modal modal fade" id="H202205" tabindex="-1" role="dialog" aria-hidden="true">
@@ -557,98 +622,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/oV1la0tf0D40D4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H202111 -->
-
-<div class="portfolio-modal modal fade" id="H202111" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/szuluaga.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Osasuna Gure Esku: Zer Jan XXI. Mendean?</h3>
-                                   <h2  class="porfolio-izena">Silvia Zuluaga Goikoetxea</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Jakin badakigu gure osasuna, ongizatea eta bizitza kalitatea gure bizimodu eta elikadurarekin lotuta daudela.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Gaur egun elikadura osasuntzuz mezuz inguratuta gaude. Eta horren guztien artean, zelan jakin zer jan diabetesentzat, hipertentsiorako, pisua galtzeko eta beste gaixotasun batzuk saihesteko edo
-
-                               osatzeko? Superalimentoak, elikagai funtzionalak edo suplementuak behar ditut?
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Azukreak, gantzak, kaloriak, zertan jarri arreta etiketak irakurtzean?
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Egunero jan behar dugunez garrantzitsua da aproposak diren elikagaiak hautatzea.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Nafarroako Unibertsitatean Medikuntza era Kirurgia orokorrean Lizentziatua. Bordeleko Unibertsitatean Dietetika eta Janari Higienean Postgraduko Diplomaduna. Distantzia Unibertsitatean (UNED) Obesitate eta Elikadura portaerako trastornoen arloko Espezializatua. Microbiotika, genetika, nutrigenetika, medikuntza pertsonalizatua eta hainbat distantziako kurtsoen diplomaduna.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               25 urte baino gehiago bere kontsultan pazienteei argaltzen laguntzen eta ondo jaten erakusten. Donostian, Eibarren eta Irunen izan ditu kontsultak eta gaur egun Donostian eta onlinen (bideokontsultak). 
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Hainbat kolaboratzaile artikulu idatzi ta gero bertako aldizkari eta egunkarietan, 2015an hasi zuen bere blogean, doctorazuluaga.com-en artikuluak idazten.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Bere lanbidearekin lotutako liburu bi argitaratu ditu: "¡A dieta! En la vida real" 2018an eta "¡El peso, ¡por fin, mi amigo! Las claves para adelgazar y mantenerte" 2019an.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/2F-faXlpXIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
