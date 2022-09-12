@@ -1,3 +1,81 @@
+<!-- H202112 -->
+
+<div class="portfolio-modal modal fade" id="H202112" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/ocabezas.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Plastic Wars: Itsas Hondakinen Isilpeko Mehatxua</h3>
+                                   <h2  class="porfolio-izena"> Oihane Cabezas Basurko</h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Itsas hondakinak munduko itsaso eta ozeano guztietara iritsi dira, Kantauri itsasotik hasita Artikoa bezalako toki isolatuetaraino. Plastikoa nonnahi dago: itsaso hondoetan, ur geruzan, ur-azalean, itsas animalietan. Adituen arabera urtero 10 milioi tona plastiko iristen dira gure itsaso eta ozeanoetara.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               Egoera hain da kezkagarria, non itsas hondakinak ozeanoentzako mehatxu berritzat izendatu dutela mundu mailako ikerlariek, eta ondorioz, maila guztietako politika eta gobernu agendetan sartu da. Eta guzti honen ondorioz itsas hondakinei irtenbide bat bilatzeko deialdiek gora egin dute, eta gehienek, gizartea, industria eta politiken elkarlana sustatzea dute helburu. Hedabide eta sare sozialetan azkar murgildu
+
+                               den fenomenoa izatera ere iritsi den arren, ibilbide honen hasieran besterik ez gaude. Eta lan haundia dago oraindik egiteke.
+
+                               </p>
+
+                               
+
+                               <p class="text-justify text-muted">
+
+                               Hitzaldi honetan itsas hondakinen egoera Euskal Herrian zein den aditzera emango dugu, itsas hondakinei buruzko mantra ezberdinak argituko ditugu, esaten diren adierazpenak egiaztatu eta baztertuz. Tokian eta mundu mailan bultzatzen ari diren aurrerakuntzak aztertuko ditugu eta gizarteak mehatxu honi aurre egiteko aukera batzuk proposatuko ditugu.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Oihane C. Basurko itsas hondakinen inguruko azterketan lan egiten du AZTIn. Ingurumen Zientzietan lizentziatua da Gironako Unibertsitatean eta doktoradutza ikasketak Erresuma Batuan egin zituen itsas teknologien iraunkortasunaren azterketan (Newcastle University, 2010). Erresuma Batuan zegoela, itsasontzien lastako uren kudeaketa, itsas garraioaren karbono aztarnaren azterketa eta bere jasangarritasuna jorratzen zituen proiektuetan lan egin zuen.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2010az geroztik AZTIn lan egiten du arrantzak, akuikulturak eta itsas garraioak sortzen duten itsas hondakin eta energia aztarnaren inguruan. Horretaz gain, itsas hondakinek Bizkaiko golkoan duten presentzia ikertu du beraien ugaritasuna, iturria, jatorria eta garraioa aztertuz, itsas hondakinak monitorizatzeko eta kudeatzeko tresna eta teknologia ezberdinen garapenetan parte hartu du, eta ekonomia zirkularra
+
+                               sustatzen dituen proiektuak koordinatu ditu itsas hondakinen kutsadura ekidin eta gutxitzeko irtenbideak bilatzeko helburuarekin.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/oV1la0tf0D40D4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202111 -->
 
 <div class="portfolio-modal modal fade" id="H202111" tabindex="-1" role="dialog" aria-hidden="true">

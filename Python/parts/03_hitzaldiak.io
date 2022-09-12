@@ -1,3 +1,82 @@
+<!-- H202209 -->
+
+<div class="portfolio-modal modal fade" id="H202209" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+       <div class="modal-content">
+           <div class="close-modal" data-dismiss="modal">
+               <div class="lr">
+                   <div class="rl">
+                   </div>
+               </div>
+           </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-8 col-lg-offset-2">
+                       <div class="modal-body">
+                           <div class="row">
+                               <div class="col-md-4">
+                                   <img src="img/hitzaldiak/jiruin.jpg" class="img-responsive" alt="">
+                               </div>
+                               <div class="col-md-8">
+                                   <h3>Incertidumbres y Certezas sobre Micropl&aacute;sticos y sus Riesgos</h3>
+                                   <h2  class="porfolio-izena"> Juan Jose Iruin Sanz </h2>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <p class="text-justify text-muted">
+
+                               Los Micropl&aacute;sticos son part&iacute;culas de tama&ntilde;o inferior a 5 mil&iacute;metros cuya ubicuidad en el medio ambiente en general y en el mar y los alimentos en particular, ha generado una creciente ansiedad en la poblaci&oacute;n, incentivada por la presi&oacute;n medi&aacute;tica de activistas, medios de comunicaci&oacute;n y pol&iacute;ticos. Derivados de la progresiva degradaci&oacute;n de los materiales pl&aacute;sticos que la Humanidad viene usando desde la mitad del siglo XX, el manejo inadecuado de sus residuos postconsumo est&aacute; en el origen de la g&eacute;nesis de la mayor parte de estas micropart&iacute;culas.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               La charla pretende dar una visi&oacute;n de lo que la Ciencia dice al respecto, tomando como base un documento publicado en abril de 2019, preparado por cient&iacute;ficos relevantes del campo y que est&aacute; sirviendo como base a la toma de decisiones pol&iacute;ticas en la UE al respecto. En la charla se emplear&aacute; tambi&eacute;n literatura cient&iacute;fica posterior al documento citado, relativa a los &uacute;ltimos avances en el conocimiento de un tema muy complejo, cuya consideraci&oacute;n a nivel cient&iacute;fico tiene menos de veinte a&ntilde;os de antigüedad y, por tanto, adolece a&uacute;n de grandes incertidumbres.
+
+                               </p>
+
+                           </div>
+                           <div class="row">
+                               <h3>Biografia</h3>
+                               <p class="text-justify text-muted">
+
+                               Yanko Iruin (Donostia, 1952) Kimika Zientzien lizentziaduna da Zaragozako Unibertsitatean (1974) eta Kimika Zientzien doktorea EHUn (1979). 1991tik 2016ko irailean erretiratu zen arte, Kimika Fisikoko katedraduna izan da EHUko Gipuzkoako Campuseko Kimika Fakultatean.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               19 doktoretza-tesi zuzendu ditu eta 132 artikulu argitaratu ditu Science Citation Index (SCI) aldizkarietan. Bere ikerketa-curriculuma ia erabat Polimeroen Zientzia eta Aplikazioetan (plastikoak) oinarritu da.
+
+                               Gai berari buruzko bi liburu ere idatzi ditu.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               American Chemical Society (ACS) eta Real Sociedad Espa&ntilde;ola de Qu&iacute;mica (RSEQ) erakundeetako kidea da. Material Polimerikoen Institutuko (POLYMAT) fundatzaile eta zuzendariorde izan da [1999/2013]. Espainiako Kimikako Errege Elkarteko (RSEQ) Polimeroen Talde Espezializatuko lehendakari [1992/1996]. EHUko Ikerketa Batzordeko kide [1999/2002] eta INASMETeko Patronatuko kide.
+
+                               </p>
+
+                               <p class="text-justify text-muted">
+
+                               2006tik, zenbait jarduera egin ditu zientzia-dibulgatzaile gisa, eta hitzaldiak eman ditu unibertsitateetan, erakundeetan, udako ikastaroetan, kultura-elkarteetan edo enpresaburuen elkarteetan, etab. Urte horretatik aurrera El Blog del B&uacute;ho argitaratu du, kimikaren dibulgazioari buruzkoa, eta Naukas zientzia-dibulgazioko plataforma digitalarekin lankidetzan aritu da.
+
+                               </p>
+
+                           </div>
+                       </div>
+                       </br>
+                       </br>
+                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+</div>
+
+
 <!-- H202206 -->
 
 <div class="portfolio-modal modal fade" id="H202206" tabindex="-1" role="dialog" aria-hidden="true">
@@ -544,84 +623,6 @@
                        </div>
                        </br>
                        <iframe width="640" height="360" src="https://www.youtube.com/embed/txKBejfZX9A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                       </br>
-                       <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-<!-- H202112 -->
-
-<div class="portfolio-modal modal fade" id="H202112" tabindex="-1" role="dialog" aria-hidden="true">
-   <div class="modal-dialog">
-       <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
-               <div class="lr">
-                   <div class="rl">
-                   </div>
-               </div>
-           </div>
-           <div class="container">
-               <div class="row">
-                   <div class="col-lg-8 col-lg-offset-2">
-                       <div class="modal-body">
-                           <div class="row">
-                               <div class="col-md-4">
-                                   <img src="img/hitzaldiak/ocabezas.jpg" class="img-responsive" alt="">
-                               </div>
-                               <div class="col-md-8">
-                                   <h3>Plastic Wars: Itsas Hondakinen Isilpeko Mehatxua</h3>
-                                   <h2  class="porfolio-izena"> Oihane Cabezas Basurko</h2>
-                               </div>
-                           </div>
-                           <div class="row">
-                               <p class="text-justify text-muted">
-
-                               Itsas hondakinak munduko itsaso eta ozeano guztietara iritsi dira, Kantauri itsasotik hasita Artikoa bezalako toki isolatuetaraino. Plastikoa nonnahi dago: itsaso hondoetan, ur geruzan, ur-azalean, itsas animalietan. Adituen arabera urtero 10 milioi tona plastiko iristen dira gure itsaso eta ozeanoetara.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               Egoera hain da kezkagarria, non itsas hondakinak ozeanoentzako mehatxu berritzat izendatu dutela mundu mailako ikerlariek, eta ondorioz, maila guztietako politika eta gobernu agendetan sartu da. Eta guzti honen ondorioz itsas hondakinei irtenbide bat bilatzeko deialdiek gora egin dute, eta gehienek, gizartea, industria eta politiken elkarlana sustatzea dute helburu. Hedabide eta sare sozialetan azkar murgildu
-
-                               den fenomenoa izatera ere iritsi den arren, ibilbide honen hasieran besterik ez gaude. Eta lan haundia dago oraindik egiteke.
-
-                               </p>
-
-                               
-
-                               <p class="text-justify text-muted">
-
-                               Hitzaldi honetan itsas hondakinen egoera Euskal Herrian zein den aditzera emango dugu, itsas hondakinei buruzko mantra ezberdinak argituko ditugu, esaten diren adierazpenak egiaztatu eta baztertuz. Tokian eta mundu mailan bultzatzen ari diren aurrerakuntzak aztertuko ditugu eta gizarteak mehatxu honi aurre egiteko aukera batzuk proposatuko ditugu.
-
-                               </p>
-
-                           </div>
-                           <div class="row">
-                               <h3>Biografia</h3>
-                               <p class="text-justify text-muted">
-
-                               Oihane C. Basurko itsas hondakinen inguruko azterketan lan egiten du AZTIn. Ingurumen Zientzietan lizentziatua da Gironako Unibertsitatean eta doktoradutza ikasketak Erresuma Batuan egin zituen itsas teknologien iraunkortasunaren azterketan (Newcastle University, 2010). Erresuma Batuan zegoela, itsasontzien lastako uren kudeaketa, itsas garraioaren karbono aztarnaren azterketa eta bere jasangarritasuna jorratzen zituen proiektuetan lan egin zuen.
-
-                               </p>
-
-                               <p class="text-justify text-muted">
-
-                               2010az geroztik AZTIn lan egiten du arrantzak, akuikulturak eta itsas garraioak sortzen duten itsas hondakin eta energia aztarnaren inguruan. Horretaz gain, itsas hondakinek Bizkaiko golkoan duten presentzia ikertu du beraien ugaritasuna, iturria, jatorria eta garraioa aztertuz, itsas hondakinak monitorizatzeko eta kudeatzeko tresna eta teknologia ezberdinen garapenetan parte hartu du, eta ekonomia zirkularra
-
-                               sustatzen dituen proiektuak koordinatu ditu itsas hondakinen kutsadura ekidin eta gutxitzeko irtenbideak bilatzeko helburuarekin.
-
-                               </p>
-
-                           </div>
-                       </div>
-                       </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/oV1la0tf0D40D4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
