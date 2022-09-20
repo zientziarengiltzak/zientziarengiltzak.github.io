@@ -65,7 +65,7 @@
                            </div>
                        </div>
                        </br>
-                       <iframe width="640" height="360" src="https://www.youtube.com/embed/oV1la0tf0D40D4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       <iframe width="640" height="360" src="https://www.youtube.com/embed/oV1la0tf0D4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                        </br>
                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>Itxi</button>
                    </div>
